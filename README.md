@@ -46,7 +46,11 @@
 
 ### Fusion of 4D Radar & LiDAR
 
-
+1. **InterFusion: Interaction-based 4D Radar and LiDAR Fusion for 3D Object Detection (24'IROS)**
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9982123)
+   - **:school:Affiliation:** Tsinghua University
+   - **:file_folder:Dataset:** Astyx
+   - **:book:Note:** 
 
 ### Fusion of 4D Radar & RGB Camera
 
