@@ -6,17 +6,17 @@
 
 [Datasets](#Datasets)
 
-[SOTA Papers](#SOTA Papers)
+[SOTA Papers](#SOTA-Papers)
 
-​		[From 4D Radar Point Cloud](#From 4D Radar Point Cloud)
+​		[From 4D Radar Point Cloud](#From-4D-Radar-Point-Cloud)
 
-​		[Fusion of 4D Radar & LiDAR](#Fusion of 4D Radar & LiDAR)
+​		[Fusion of 4D Radar & LiDAR](#Fusion-of-4D-Radar-&-LiDAR)
 
-​		[Fusion of 4D Radar & RGB Camera](#Fusion of 4D Radar & RGB Camera)
+​		[Fusion of 4D Radar & RGB Camera](#Fusion-of-4D-Radar-&-RGB-Camera)
 
 ​		[Others](#Others)
 
-[Basic Knowledge](#Basic Knowledge)
+[Basic Knowledge](#Basic-Knowledge)
 
 ## Datasets
 
@@ -119,7 +119,6 @@
 - [**Li Wang**](https://scholar.google.com/citations?hl=zh-CN&user=kLTnwAsAAAAJ&view_op=list_works&sortby=pubdate) (Postdoctoral Fellow) and his co-leader **Xinyu Zhang** @Tsinghua University
 - [**Bing Zhu**](https://shi.buaa.edu.cn/zhubing/zh_CN/index.htm) @Beihang University
 - [**Lin Yang**](https://me.sjtu.edu.cn/teacher_directory1/2080.html) @Shanghai Jiao Tong University
-- 
 
 
 
