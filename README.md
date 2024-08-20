@@ -1,5 +1,7 @@
 # Awesome-3D-Detection-with-4D-Radar
 
+![Aptiv_4D_Radar_og](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/Aptiv_4D_Radar_og.jpg)
+
 ## Overview
 
 [Datasets](#Datasets)
@@ -34,35 +36,62 @@
 ### From 4D Radar Point Cloud
 
 1. **RPFA-Net: a 4D RaDAR Pillar Feature Attention Network for 3D Object Detection (21'ITSC)**
-   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9564754)
-   - **:school:Affiliation:** Tsinghua University
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9564754) [code](https://github.com/Nerdmust/astyx-pcdet-radar)
+   - **:school:Affiliation:** Tsinghua University (Xinyu Zhang)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
-2. **Multi-class road user detection with 3+ 1D radar in the View-of-Delft dataset (22'RA-L)** 
+2. **Multi-class road user detection with 3+1D radar in the View-of-Delft dataset (22'RA-L)** 
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9699098)
    - **:school:Affiliation:** 
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** baseline of VoD
 3. **SMURF: Spatial multi-representation fusion for 3D object detection with 4D imaging radar (23'TIV)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10274127)
-   - **:school:Affiliation:** Beihang University
+   - **:school:Affiliation:** Beihang University (Bing Zhu)
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
-4. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
+4. **PillarDAN: Pillar-based Dual Attention Attention Network for 3D Object Detection with 4D RaDAR (23'ITSC)**
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10422406)
+   - **:school:Affiliation:** Shanghai Jiao Tong University
+   - **:file_folder:Dataset:** Astyx
+   - **:book:Note:** 
+5. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.05020)
    - **:school:Affiliation:** Mannheim University of Applied Sciences, Germany
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
+6. 
 
 ### Fusion of 4D Radar & LiDAR
 
-1. **InterFusion: Interaction-based 4D Radar and LiDAR Fusion for 3D Object Detection (24'IROS)**
+1. **InterFusion: Interaction-based 4D Radar and LiDAR Fusion for 3D Object Detection (22'IROS)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9982123)
-   - **:school:Affiliation:** Tsinghua University
+   - **:school:Affiliation:** Tsinghua University (Li Wang)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
+2. **Multi-Modal and Multi-Scale Fusion 3D Object Detection of 4D Radar and LiDAR for Autonomous Driving (23'TVT)** 
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9991894)
+   - **:school:Affiliation:** Tsinghua University (Li Wang)
+   - **:file_folder:Dataset:** Astyx
+   - **:book:Note:** 
+3. **L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection (24'arXiv)**
+   - **:link:Link:** [paper](https://arxiv.org/pdf/2408.03677)
+   - **:school:Affiliation:** Xiamen University
+   - **:file_folder:Dataset:** VoD, K-Radar
+   - **:book:Note:** For the K-Radar dataset, we preprocess the 4D radar spar setensor by selecting only the top 10240 points with high power measurement. This paper is submitted to 25'AAAI. 
 
 ### Fusion of 4D Radar & RGB Camera
+
+1. **LXL: LiDAR Excluded Lean 3D Object DetectionWith 4D Imaging Radar and Camera Fusion (24'TIV)**
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10268601)
+   - **:school:Affiliation:** Beihang University (Bing Zhu)
+   - **:file_folder:Dataset:** VoD, TJ4DRadSet
+   - **:book:Note:** 
+2. **RCFusion: Fusing 4-D Radar and Camera With Bird’s-Eye View Features for 3-D Object Detection (23'TIM)**
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10138035)
+   - **:school:Affiliation:** Tongji University
+   - **:file_folder:Dataset:** VoD, TJ4DRadSet
+   - **:book:Note:** 
 
 
 ### Others
@@ -72,7 +101,8 @@
    - **:school:Affiliation:** KAIST
    - **:file_folder:Dataset:** K-Radar
    - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input.
-2. 
+
+
 
 ## Basic Knowledge
 
@@ -81,3 +111,25 @@
 - PC: point cloud
 - ADC: analog-to-digital converter signal
 - RT: Radar Tensor
+
+
+
+## Representative researchers
+
+- [**Li Wang**](https://scholar.google.com/citations?hl=zh-CN&user=kLTnwAsAAAAJ&view_op=list_works&sortby=pubdate) (Postdoctoral Fellow) and his co-leader **Xinyu Zhang** @Tsinghua University
+- [**Bing Zhu**](https://shi.buaa.edu.cn/zhubing/zh_CN/index.htm) @Beihang University
+- [**Lin Yang**](https://me.sjtu.edu.cn/teacher_directory1/2080.html) @Shanghai Jiao Tong University
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
