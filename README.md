@@ -8,13 +8,13 @@
 
 [SOTA Papers](#SOTA-Papers)
 
-​		[From 4D Radar Point Cloud](#From-4D-Radar-Point-Cloud)
+​        [From 4D Radar Point Cloud](#From-4D-Radar-Point-Cloud)
 
-​		[Fusion of 4D Radar & LiDAR](#Fusion-of-4D-Radar-&-LiDAR)
+​        [Fusion of 4D Radar & LiDAR](#Fusion-of-4D-Radar-&-LiDAR)
 
-​		[Fusion of 4D Radar & RGB Camera](#Fusion-of-4D-Radar-&-RGB-Camera)
+​        [Fusion of 4D Radar & RGB Camera](#Fusion-of-4D-Radar-&-RGB-Camera)
 
-​		[Others](#Others)
+​        [Others](#Others)
 
 [Basic Knowledge](#Basic-Knowledge)
 
@@ -55,12 +55,17 @@
    - **:school:Affiliation:** Shanghai Jiao Tong University
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
-5. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
+5. **MVFAN: Multi-view Feature Assisted Network for 4D Radar Object Detection (23'ICONIP)**
+   - **:link:Link:** [paper](https://link.springer.com/chapter/10.1007/978-981-99-8070-3_38)
+   - **:school:Affiliation:** Nanyang Technological University
+   - **:file_folder:Dataset:** Astyx, VoD
+   - **:book:Note:** 
+6. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.05020)
    - **:school:Affiliation:** Mannheim University of Applied Sciences, Germany
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
-6. 
+7. 
 
 ### Fusion of 4D Radar & LiDAR
 
