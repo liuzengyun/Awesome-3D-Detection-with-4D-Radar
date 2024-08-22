@@ -60,12 +60,17 @@
    - **:school:Affiliation:** Nanyang Technological University
    - **:file_folder:Dataset:** Astyx, VoD
    - **:book:Note:** 
-6. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
+6. **SMIFormer: Learning Spatial Feature Representation for 3D Object Detection from 4D Imaging Radar via Multi-View Interactive Transformers (23'Sensors)**
+   - **:link:Link:** [paper](https://www.mdpi.com/1424-8220/23/23/9429)
+   - **:school:Affiliation:** Tongji University
+   - **:file_folder:Dataset:** VoD
+   - **:book:Note:** 
+7. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.05020)
    - **:school:Affiliation:** Mannheim University of Applied Sciences, Germany
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
-7. 
+8. 
 
 ### Fusion of 4D Radar & LiDAR
 
