@@ -52,7 +52,7 @@
    - **:book:Note:** 
 4. **PillarDAN: Pillar-based Dual Attention Attention Network for 3D Object Detection with 4D RaDAR (23'ITSC)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10422406)
-   - **:school:Affiliation:** Shanghai Jiao Tong University
+   - **:school:Affiliation:** Shanghai Jiao Tong University (Lin Yang)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
 5. **MVFAN: Multi-view Feature Assisted Network for 4D Radar Object Detection (23'ICONIP)**
@@ -89,6 +89,11 @@
    - **:school:Affiliation:** Xiamen University
    - **:file_folder:Dataset:** VoD, K-Radar
    - **:book:Note:** For the K-Radar dataset, we preprocess the 4D radar spar setensor by selecting only the top 10240 points with high power measurement. This paper is submitted to 25'AAAI. 
+4. **Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation (24'ICRA)**
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10610775)  [code](https://github.com/DJNing/See_beyond_seeing)
+   - **:school:Affiliation:** University of Edinburgh (Chris Xiaoxuan Lu)
+   - **:file_folder:Dataset:** VoD
+   - **:book:Note:** 
 
 ### Fusion of 4D Radar & RGB Camera
 
@@ -129,6 +134,8 @@
 - [**Li Wang**](https://scholar.google.com/citations?hl=zh-CN&user=kLTnwAsAAAAJ&view_op=list_works&sortby=pubdate) (Postdoctoral Fellow) and his co-leader **Xinyu Zhang** @Tsinghua University
 - [**Bing Zhu**](https://shi.buaa.edu.cn/zhubing/zh_CN/index.htm) @Beihang University
 - [**Lin Yang**](https://me.sjtu.edu.cn/teacher_directory1/2080.html) @Shanghai Jiao Tong University
+- [**Chris Xiaoxuan Lu**](https://christopherlu.github.io) @University College London (UCL)
+- 
 
 
 
