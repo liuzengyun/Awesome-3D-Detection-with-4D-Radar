@@ -121,7 +121,11 @@
 
 ## Basic Knowledge
 
-### Different Radar Data Representations
+### What is 4D Radar?
+
+3D object detection is able to obtain the position, size and orientation information of objects in 3D space, and is widely used in automatic driving perception, robot manipulation, and other applications. In 3D object detection, sensors such as LiDAR, RGB camera and depth camera are commonly used. In recent years, several works have proposed to utilize 4D radar as a primary or secondary sensor to achieve 3D object detection. 4D radar, also known as 4D millimeter wave (mmWave) radar or 4D imaging radar. Compared to 3D radar, 4D radar not only obtains the distance, direction and relative velocity (Doppler velocity) of the target object, but also detects the height of the object. Due to its robustness against different weather conditions and lower cost, 4D radar is expected to replace low beam LiDAR in the future. This repo summarizes the 4D radar based 3D object detection methods and datasets. 
+
+### Different 4D Radar Data Representations
 
 - PC: point cloud
 - ADC: analog-to-digital converter signal
@@ -135,7 +139,6 @@
 - [**Bing Zhu**](https://shi.buaa.edu.cn/zhubing/zh_CN/index.htm) @Beihang University
 - [**Lin Yang**](https://me.sjtu.edu.cn/teacher_directory1/2080.html) @Shanghai Jiao Tong University
 - [**Chris Xiaoxuan Lu**](https://christopherlu.github.io) @University College London (UCL)
-- 
 
 
 
