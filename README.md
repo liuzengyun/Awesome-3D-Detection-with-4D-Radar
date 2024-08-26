@@ -70,7 +70,11 @@
    - **:school:Affiliation:** Mannheim University of Applied Sciences, Germany
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
-8. 
+8. **VA-Net: 3D Object Detection with 4D Radar Based on Self-Attention (24'CVDL)**
+   - **:link:Link:** [paper](https://dl.acm.org/doi/abs/10.1145/3653804.3654611)
+   - **:school:Affiliation:** Hunan Normal University (Bo Yang)
+   - **:file_folder:Dataset:** VoD
+   - **:book:Note:** 
 
 ### Fusion of 4D Radar & LiDAR
 
