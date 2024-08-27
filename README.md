@@ -65,12 +65,17 @@
    - **:school:Affiliation:** Tongji University
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
-7. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
+7. **3-D Object Detection for Multiframe 4-D Automotive Millimeter-Wave Radar Point Cloud (23'IEEE Sensors Journal)**
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9944629)
+   - **:school:Affiliation:** Tongji University (Zhixiong Ma)
+   - **:file_folder:Dataset:** TJ4DRadSet
+   - **:book:Note:** 
+8. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.05020)
    - **:school:Affiliation:** Mannheim University of Applied Sciences, Germany
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
-8. **VA-Net: 3D Object Detection with 4D Radar Based on Self-Attention (24'CVDL)**
+9. **VA-Net: 3D Object Detection with 4D Radar Based on Self-Attention (24'CVDL)**
    - **:link:Link:** [paper](https://dl.acm.org/doi/abs/10.1145/3653804.3654611)
    - **:school:Affiliation:** Hunan Normal University (Bo Yang)
    - **:file_folder:Dataset:** VoD
@@ -108,7 +113,7 @@
    - **:book:Note:** 
 2. **RCFusion: Fusing 4-D Radar and Camera With Bird’s-Eye View Features for 3-D Object Detection (23'TIM)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10138035)
-   - **:school:Affiliation:** Tongji University
+   - **:school:Affiliation:** Tongji University (Zhixiong Ma)
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
 
@@ -143,6 +148,7 @@
 - [**Bing Zhu**](https://shi.buaa.edu.cn/zhubing/zh_CN/index.htm) @Beihang University
 - [**Lin Yang**](https://me.sjtu.edu.cn/teacher_directory1/2080.html) @Shanghai Jiao Tong University
 - [**Chris Xiaoxuan Lu**](https://christopherlu.github.io) @University College London (UCL)
+- [**Zhixiong Ma**](https://ieeexplore.ieee.org/author/37085837925) @Chinese Institute for Brain Research (ex. Tongji University), Author of TJ4DRadSet Dataset
 
 
 
