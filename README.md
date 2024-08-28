@@ -29,7 +29,6 @@
 |      K-Radar       | 4D Radar,LiDAR, Stereo Camera, RTK-GPS |     RT      | 22'NeurIPS | 3D bbox, TrackID | [github](https://github.com/kaist-avelab/k-radar)  [paper](https://arxiv.org/pdf/2206.08171) |      35K frames; 360° Camera      |
 |     Dual Radar     |      dual 4D Radars,LiDAR, Camera      |     PC      |  23'arXiv  | 3D bbox, TrackID |          [paper](https://arxiv.org/pdf/2310.07602)           |            10K frames             |
 |      L-RadSet      |       4D Radar,LiDAR, 3 Cameras        |     PC      |   24'TIV   | 3D bbox, TrackID | [github](https://github.com/crrasjtu/L-RadSet)  [paper](https://ieeexplore.ieee.org/abstract/document/10591452) | 11.2K frames; Annos range to 220m |
-|                    |                                        |             |            |                  |                                                              |                                   |
 
 ## SOTA Papers
 
@@ -116,6 +115,11 @@
    - **:school:Affiliation:** Tongji University (Zhixiong Ma)
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
+3. **TL-4DRCF: A Two-Level 4-D Radar–Camera Fusion Method for Object Detection in Adverse Weather (24'IEEE Sensors Journal)**
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10491101) 
+   - **:school:Affiliation:** South China University of Technology (Kai Wu)
+   - **:file_folder:Dataset:** VoD
+   - **:book:Note:** Beyond the VoD, the LiDAR point cloud and images of the VoD dataset are processed with artificial fog to obtain the VoD-Fog dataset for validating our model. 
 
 
 ### Others
@@ -126,8 +130,6 @@
    - **:file_folder:Dataset:** K-Radar
    - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input.
 
-
-
 ## Basic Knowledge
 
 ### What is 4D Radar?
@@ -136,11 +138,9 @@
 
 ### Different 4D Radar Data Representations
 
-- PC: point cloud
-- ADC: analog-to-digital converter signal
-- RT: Radar Tensor
-
-
+- **PC:** **P**oint **C**loud
+- **ADC:** **A**nalog-to-**D**igital **C**onverter signal
+- **RT:** **R**adar **T**ensor (include **R**ange-**A**zimuth-**D**oppler Tensor, **R**ange-**A**zimuth Tensor, **R**ange-Doppler Tensor)
 
 ## Representative researchers
 
@@ -148,7 +148,7 @@
 - [**Bing Zhu**](https://shi.buaa.edu.cn/zhubing/zh_CN/index.htm) @Beihang University
 - [**Lin Yang**](https://me.sjtu.edu.cn/teacher_directory1/2080.html) @Shanghai Jiao Tong University
 - [**Chris Xiaoxuan Lu**](https://christopherlu.github.io) @University College London (UCL)
-- [**Zhixiong Ma**](https://ieeexplore.ieee.org/author/37085837925) @Chinese Institute for Brain Research (ex. Tongji University), Author of TJ4DRadSet Dataset
+- [**Zhixiong Ma**](https://ieeexplore.ieee.org/author/37085837925) @Chinese Institute for Brain Research (ex. Tongji University), the author of TJ4DRadSet Dataset
 
 
 
