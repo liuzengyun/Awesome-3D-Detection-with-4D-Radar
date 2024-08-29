@@ -69,12 +69,17 @@
    - **:school:Affiliation:** Tongji University (Zhixiong Ma)
    - **:file_folder:Dataset:** TJ4DRadSet
    - **:book:Note:** 
-8. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
+8. **RMSA-Net: A 4D Radar Based Multi-Scale Attention Network for 3D Object Detection (23'ISCSIC)**
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10409602)
+   - **:school:Affiliation:** Nanjing University of Aeronautics and Astronautics (Jie Hao)
+   - **:file_folder:Dataset:** HR4D (self-collected and not open source)
+   - **:book:Note:** 
+9. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.05020)
    - **:school:Affiliation:** Mannheim University of Applied Sciences, Germany
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
-9. **VA-Net: 3D Object Detection with 4D Radar Based on Self-Attention (24'CVDL)**
+10. **VA-Net: 3D Object Detection with 4D Radar Based on Self-Attention (24'CVDL)**
    - **:link:Link:** [paper](https://dl.acm.org/doi/abs/10.1145/3653804.3654611)
    - **:school:Affiliation:** Hunan Normal University (Bo Yang)
    - **:file_folder:Dataset:** VoD
@@ -126,7 +131,7 @@
 
 1. **Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions (24'CVPR)**
    - **:link:Link:** [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chae_Towards_Robust_3D_Object_Detection_with_LiDAR_and_4D_Radar_CVPR_2024_paper.html)  [code](https://github.com/yujeong-star/RL_3DOD)
-   - **:school:Affiliation:** KAIST
+   - **:school:Affiliation:** KAIST (Yujeong Chae)
    - **:file_folder:Dataset:** K-Radar
    - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input.
 
