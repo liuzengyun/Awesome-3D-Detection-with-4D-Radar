@@ -4,19 +4,13 @@
 
 ## Overview
 
-[Datasets](#Datasets)
-
-[SOTA Papers](#SOTA-Papers)
-
-​        [From 4D Radar Point Cloud](#From-4D-Radar-Point-Cloud)
-
-​        [Fusion of 4D Radar & LiDAR](#Fusion-of-4D-Radar-&-LiDAR)
-
-​        [Fusion of 4D Radar & RGB Camera](#Fusion-of-4D-Radar-&-RGB-Camera)
-
-​        [Others](#Others)
-
-[Basic Knowledge](#Basic-Knowledge)
+- [Datasets](#Datasets)
+- [SOTA Papers](#SOTA-Papers)
+  - [From 4D Radar Point Cloud](#From-4D-Radar-Point-Cloud)
+  - [Fusion of 4D Radar & LiDAR](#Fusion-of-4D-Radar-&-LiDAR)
+  - [Fusion of 4D Radar & RGB Camera](#Fusion-of-4D-Radar-&-RGB-Camera)
+  - [Others](#Others)
+- [Basic Knowledge](#Basic-Knowledge)
 
 ## Datasets
 
@@ -92,32 +86,42 @@
    - **:school:Affiliation:** Tsinghua University (Li Wang)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
+   
 2. **Multi-Modal and Multi-Scale Fusion 3D Object Detection of 4D Radar and LiDAR for Autonomous Driving (23'TVT)** 
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9991894)
    - **:school:Affiliation:** Tsinghua University (Li Wang)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
+   
 3. **L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.03677)
    - **:school:Affiliation:** Xiamen University
    - **:file_folder:Dataset:** VoD, K-Radar
    - **:book:Note:** For the K-Radar dataset, we preprocess the 4D radar spar setensor by selecting only the top 10240 points with high power measurement. This paper is submitted to 25'AAAI. 
+   
 4. **Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation (24'ICRA)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10610775)  [code](https://github.com/DJNing/See_beyond_seeing)
    - **:school:Affiliation:** University of Edinburgh (Chris Xiaoxuan Lu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
+   
+5. ##### Traffic Object Detection for Autonomous Driving Fusing LiDAR and Pseudo 4D-Radar Under Bird’s-Eye-View (24'TITS)
+
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10571662)
+   - **:school:Affiliation:** Xi’an Jiaotong University (Yonghong Song)
+   - **:file_folder:Dataset:** Astyx
+   - **:book:Note:** 
 
 ### Fusion of 4D Radar & RGB Camera
 
-1. **LXL: LiDAR Excluded Lean 3D Object DetectionWith 4D Imaging Radar and Camera Fusion (24'TIV)**
-   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10268601)
-   - **:school:Affiliation:** Beihang University (Bing Zhu)
-   - **:file_folder:Dataset:** VoD, TJ4DRadSet
-   - **:book:Note:** 
-2. **RCFusion: Fusing 4-D Radar and Camera With Bird’s-Eye View Features for 3-D Object Detection (23'TIM)**
+1. **RCFusion: Fusing 4-D Radar and Camera With Bird’s-Eye View Features for 3-D Object Detection (23'TIM)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10138035)
    - **:school:Affiliation:** Tongji University (Zhixiong Ma)
+   - **:file_folder:Dataset:** VoD, TJ4DRadSet
+   - **:book:Note:** 
+2. **LXL: LiDAR Excluded Lean 3D Object DetectionWith 4D Imaging Radar and Camera Fusion (24'TIV)**
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10268601)
+   - **:school:Affiliation:** Beihang University (Bing Zhu)
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
 3. **TL-4DRCF: A Two-Level 4-D Radar–Camera Fusion Method for Object Detection in Adverse Weather (24'IEEE Sensors Journal)**
@@ -134,6 +138,7 @@
    - **:school:Affiliation:** KAIST (Yujeong Chae)
    - **:file_folder:Dataset:** K-Radar
    - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input.
+2. 
 
 ## Basic Knowledge
 
