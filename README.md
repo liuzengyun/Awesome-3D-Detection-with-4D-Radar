@@ -111,6 +111,13 @@
    - **:school:Affiliation:** Xi’an Jiaotong University (Yonghong Song)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
+   
+6. **Fusing LiDAR and Radar with Pillars Attention for 3D Object Detection (24'International Symposium on Autonomous Systems (ISAS))**
+
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10552581)
+   - **:school:Affiliation:** Zhejiang University (Liang Liu)
+   - **:file_folder:Dataset:** VoD
+   - **:book:Note:** 
 
 ### Fusion of 4D Radar & RGB Camera
 
