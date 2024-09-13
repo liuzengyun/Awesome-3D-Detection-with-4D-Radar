@@ -74,10 +74,18 @@
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
 10. **VA-Net: 3D Object Detection with 4D Radar Based on Self-Attention (24'CVDL)**
-   - **:link:Link:** [paper](https://dl.acm.org/doi/abs/10.1145/3653804.3654611)
-   - **:school:Affiliation:** Hunan Normal University (Bo Yang)
-   - **:file_folder:Dataset:** VoD
-   - **:book:Note:** 
+    - **:link:Link:** [paper](https://dl.acm.org/doi/abs/10.1145/3653804.3654611)
+    - **:school:Affiliation:** Hunan Normal University (Bo Yang)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** 
+11. **RTNH+: Enhanced 4D Radar Object Detection Network using Two-Level Preprocessing and Vertical Encoding (24'TIV)**
+    - **:link:Link:** [code](https://github.com/kaist-avelab/k-radar)  [paper](https://arxiv.org/pdf/2206.08171)
+    - **:school:Affiliation:** KAIST (Seung-Hyun Kong)
+    - **:file_folder:Dataset:** K-Radar
+    - **:book:Note:** The enhanced baseline of K-Radar. 
+
+
+
 
 ### Fusion of 4D Radar & LiDAR
 
@@ -98,16 +106,15 @@
    - **:school:Affiliation:** Xiamen University
    - **:file_folder:Dataset:** VoD, K-Radar
    - **:book:Note:** For the K-Radar dataset, we preprocess the 4D radar spar setensor by selecting only the top 10240 points with high power measurement. This paper is submitted to 25'AAAI. 
-   
+
 4. **Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation (24'ICRA)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10610775)  [code](https://github.com/DJNing/See_beyond_seeing)
    - **:school:Affiliation:** University of Edinburgh (Chris Xiaoxuan Lu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
-   
-5. ##### Traffic Object Detection for Autonomous Driving Fusing LiDAR and Pseudo 4D-Radar Under Bird’s-Eye-View (24'TITS)
 
-   - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10571662)
+5. **Traffic Object Detection for Autonomous Driving Fusing LiDAR and Pseudo 4D-Radar Under Bird’s-Eye-View (24'TITS)**
+- **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10571662)
    - **:school:Affiliation:** Xi’an Jiaotong University (Yonghong Song)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
@@ -118,6 +125,8 @@
    - **:school:Affiliation:** Zhejiang University (Liang Liu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
+
+
 
 ### Fusion of 4D Radar & RGB Camera
 
@@ -138,6 +147,8 @@
    - **:book:Note:** Beyond the VoD, the LiDAR point cloud and images of the VoD dataset are processed with artificial fog to obtain the VoD-Fog dataset for validating our model. 
 
 
+
+
 ### Others
 
 1. **Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions (24'CVPR)**
@@ -145,7 +156,8 @@
    - **:school:Affiliation:** KAIST (Yujeong Chae)
    - **:file_folder:Dataset:** K-Radar
    - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input.
-2. 
+
+
 
 ## Basic Knowledge
 
