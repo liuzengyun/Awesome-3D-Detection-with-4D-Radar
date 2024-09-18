@@ -84,6 +84,11 @@
     - **:school:Affiliation:** KAIST (Seung-Hyun Kong)
     - **:file_folder:Dataset:** K-Radar
     - **:book:Note:** The enhanced baseline of K-Radar. 
+12. **RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud (24'ICRA)**
+    - **:link:Link:** [code](https://github.com/LJacksonPan/RaTrack) 
+    - **:school:Affiliation:** Royal College of Art, University College London (Chris Xiaoxuan Lu)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** 
 
 
 
@@ -110,12 +115,12 @@
 
 4. **Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation (24'ICRA)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10610775)  [code](https://github.com/DJNing/See_beyond_seeing)
-   - **:school:Affiliation:** University of Edinburgh (Chris Xiaoxuan Lu)
+   - **:school:Affiliation:** University of Edinburgh, University College London (Chris Xiaoxuan Lu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
 
 5. **Traffic Object Detection for Autonomous Driving Fusing LiDAR and Pseudo 4D-Radar Under Bird’s-Eye-View (24'TITS)**
-- **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10571662)
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10571662)
    - **:school:Affiliation:** Xi’an Jiaotong University (Yonghong Song)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
@@ -127,10 +132,17 @@
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
 7. **RLNet: Adaptive Fusion of 4D Radar and Lidar for 3D Object Detection (24'ECCVW)**
+
    - **:link:Link:** [paper and reviews](https://openreview.net/forum?id=I5IIhtSbMe)
    - **:school:Affiliation:** Zhejiang University (Zhiyu Xiang)
    - **:file_folder:Dataset:** ZJUODset
    - **:book:Note:** 
+
+8. **LEROjD: Lidar Extended Radar-Only Object Detection (24'ECCV)**
+   - **:link:Link:** [paper](https://arxiv.org/pdf/2409.05564) [code](https://github.com/rst-tu-dortmund/lerojd)
+   - **:school:Affiliation:**  TU Dortmund University (Patrick Palmer, Martin Krüger)
+   - **:file_folder:Dataset:** VoD
+   - **:book:Note:** "Although lidar should not be used during inference, it can aid the training of radar-only object detectors." 
 
 
 
