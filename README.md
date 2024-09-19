@@ -11,6 +11,7 @@
   - [Fusion of 4D Radar & RGB Camera](#Fusion-of-4D-Radar-&-RGB-Camera)
   - [Others](#Others)
 - [Basic Knowledge](#Basic-Knowledge)
+- [Representative researchers](#Representative-researchers)
 
 ## Datasets
 
@@ -173,7 +174,15 @@
    - **:link:Link:** [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chae_Towards_Robust_3D_Object_Detection_with_LiDAR_and_4D_Radar_CVPR_2024_paper.html)  [code](https://github.com/yujeong-star/RL_3DOD)
    - **:school:Affiliation:** KAIST (Yujeong Chae)
    - **:file_folder:Dataset:** K-Radar
-   - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input.
+   - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input. 
+   
+2. **LiDAR-based All-weather 3D Object Detection via Prompting and Distilling 4D Radar (24'ECCV)**
+   - **:link:Link:** paper and code is coming...
+   - **:school:Affiliation:** KAIST (Yujeong Chae)
+   - **:file_folder:Dataset:** 
+   - **:book:Note:** 
+
+![img](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/ECCV24-11_RL_3DOD_KD.png)
 
 
 
@@ -197,6 +206,7 @@
 - [**Chris Xiaoxuan Lu**](https://christopherlu.github.io) @University College London (UCL)
 - [**Zhixiong Ma**](https://ieeexplore.ieee.org/author/37085837925) @Chinese Institute for Brain Research (ex. Tongji University), the author of TJ4DRadSet Dataset
 - [**Zhiyu Xiang**](https://mypage.zju.edu.cn/xiangzy#569131) @Zhejiang University, the author of ZJUODset Dataset
+- [**Yujeong Chae**](https://scholar.google.com/citations?user=2dP6JlQAAAAJ) and his PhD Advisor [**Kuk-Jin Yoon**](https://scholar.google.com/citations?user=1NvBj_gAAAAJ) @Korea Advanced Institute of Science and Technology (KAIST)
 
 
 
