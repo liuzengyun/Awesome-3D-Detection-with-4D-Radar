@@ -164,6 +164,11 @@
    - **:school:Affiliation:** South China University of Technology (Kai Wu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** Beyond the VoD, the LiDAR point cloud and images of the VoD dataset are processed with artificial fog to obtain the VoD-Fog dataset for validating our model. 
+4. **UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection (24'arXiv)**
+   - **:link:Link:** [paper](https://arxiv.org/abs/2409.14751)
+   - **:school:Affiliation:** Xi'an Jiaotong - Liverpool University
+   - **:file_folder:Dataset:** VoD, TJ4DRadSet
+   - **:book:Note:** 
 
 
 
@@ -200,15 +205,13 @@
 
 ## Representative researchers
 
-- [**Li Wang**](https://scholar.google.com/citations?hl=zh-CN&user=kLTnwAsAAAAJ&view_op=list_works&sortby=pubdate) (Postdoctoral Fellow) and his co-leader **Xinyu Zhang** @Tsinghua University
+- [**Li Wang**](https://scholar.google.com/citations?hl=zh-CN&user=kLTnwAsAAAAJ&view_op=list_works&sortby=pubdate) (Postdoctoral Fellow) and his co-leader **Xinyu Zhang** @Tsinghua University, authors of Dual Radar
 - [**Bing Zhu**](https://shi.buaa.edu.cn/zhubing/zh_CN/index.htm) @Beihang University
 - [**Lin Yang**](https://me.sjtu.edu.cn/teacher_directory1/2080.html) @Shanghai Jiao Tong University
 - [**Chris Xiaoxuan Lu**](https://christopherlu.github.io) @University College London (UCL)
 - [**Zhixiong Ma**](https://ieeexplore.ieee.org/author/37085837925) @Chinese Institute for Brain Research (ex. Tongji University), the author of TJ4DRadSet Dataset
 - [**Zhiyu Xiang**](https://mypage.zju.edu.cn/xiangzy#569131) @Zhejiang University, the author of ZJUODset Dataset
 - [**Yujeong Chae**](https://scholar.google.com/citations?user=2dP6JlQAAAAJ) and his PhD Advisor [**Kuk-Jin Yoon**](https://scholar.google.com/citations?user=1NvBj_gAAAAJ) @Korea Advanced Institute of Science and Technology (KAIST)
-
-
 
 
 
