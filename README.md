@@ -90,6 +90,11 @@
     - **:school:Affiliation:** Royal College of Art, University College London (Chris Xiaoxuan Lu)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
+13. **Feature Fusion and Interaction Network for 3D Object Detection based on 4D Millimeter Wave Radars (24'CCC)**
+    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10662866)
+    - **:school:Affiliation:** University of Science and Technology of China (Qiang Ling)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** 
 
 
 
@@ -154,17 +159,22 @@
    - **:school:Affiliation:** Tongji University (Zhixiong Ma)
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
-2. **LXL: LiDAR Excluded Lean 3D Object DetectionWith 4D Imaging Radar and Camera Fusion (24'TIV)**
+2. **GRC-Net: Fusing GAT-Based 4D Radar and Camera for 3D Object Detection (23'SAE Technical Paper)**
+   - **:link:Link:** [paper](https://www.sae.org/publications/technical-papers/content/2023-01-7088/)
+   - **:school:Affiliation:** Beijing Institute of Technology (Lili Fan)
+   - **:file_folder:Dataset:** VoD
+   - **:book:Note:** 
+3. **LXL: LiDAR Excluded Lean 3D Object DetectionWith 4D Imaging Radar and Camera Fusion (24'TIV)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10268601)
    - **:school:Affiliation:** Beihang University (Bing Zhu)
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
-3. **TL-4DRCF: A Two-Level 4-D Radar–Camera Fusion Method for Object Detection in Adverse Weather (24'IEEE Sensors Journal)**
+4. **TL-4DRCF: A Two-Level 4-D Radar–Camera Fusion Method for Object Detection in Adverse Weather (24'IEEE Sensors Journal)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10491101) 
    - **:school:Affiliation:** South China University of Technology (Kai Wu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** Beyond the VoD, the LiDAR point cloud and images of the VoD dataset are processed with artificial fog to obtain the VoD-Fog dataset for validating our model. 
-4. **UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection (24'arXiv)**
+5. **UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/abs/2409.14751)
    - **:school:Affiliation:** Xi'an Jiaotong - Liverpool University
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
@@ -212,6 +222,7 @@
 - [**Zhixiong Ma**](https://ieeexplore.ieee.org/author/37085837925) @Chinese Institute for Brain Research (ex. Tongji University), the author of TJ4DRadSet Dataset
 - [**Zhiyu Xiang**](https://mypage.zju.edu.cn/xiangzy#569131) @Zhejiang University, the author of ZJUODset Dataset
 - [**Yujeong Chae**](https://scholar.google.com/citations?user=2dP6JlQAAAAJ) and his PhD Advisor [**Kuk-Jin Yoon**](https://scholar.google.com/citations?user=1NvBj_gAAAAJ) @Korea Advanced Institute of Science and Technology (KAIST)
+- [**Lili Fan**](https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/6711569f697a43c08be59ba673ecf2bd.htm) @Beijing Institute of Technology
 
 
 
