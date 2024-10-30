@@ -193,12 +193,10 @@
    - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input. 
    
 2. **LiDAR-based All-weather 3D Object Detection via Prompting and Distilling 4D Radar (24'ECCV)**
-   - **:link:Link:** paper and code is coming...
+   - **:link:Link:** [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07349.pdf) [code (404, waiting for updates)](https://github.com/yujeong-star/LOD_PDR)
    - **:school:Affiliation:** KAIST (Yujeong Chae)
-   - **:file_folder:Dataset:** 
+   - **:file_folder:Dataset:** K-Radar
    - **:book:Note:** 
-
-![img](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/ECCV24-11_RL_3DOD_KD.png)
 
 
 
