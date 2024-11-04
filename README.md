@@ -7,6 +7,7 @@
 - [Datasets](#Datasets)
 - [SOTA Papers](#SOTA-Papers)
   - [From 4D Radar Point Cloud](#From-4D-Radar-Point-Cloud)
+  - [From 4D Radar Tensor](#From-4D-Radar-Tensor)
   - [Fusion of 4D Radar & LiDAR](#Fusion-of-4D-Radar-&-LiDAR)
   - [Fusion of 4D Radar & RGB Camera](#Fusion-of-4D-Radar-&-RGB-Camera)
   - [Others](#Others)
@@ -99,6 +100,21 @@
 
 
 
+### From 4D Radar Tensor
+
+1. **Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions (24'CVPR)**
+   - **:link:Link:** [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chae_Towards_Robust_3D_Object_Detection_with_LiDAR_and_4D_Radar_CVPR_2024_paper.html)  [code](https://github.com/yujeong-star/RL_3DOD)
+   - **:school:Affiliation:** KAIST (Yujeong Chae)
+   - **:file_folder:Dataset:** K-Radar
+   - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input. 
+2. **CenterRadarNet: Joint 3D Object Detection and Tracking Framework using 4D FMCW Radar (24'ICIP)**
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10648077) 
+   - **:school:Affiliation:** University of Washington (Jen-Hao Cheng)
+   - **:file_folder:Dataset:** K-Radar
+   - **:book:Note:** 
+
+
+
 
 ### Fusion of 4D Radar & LiDAR
 
@@ -180,18 +196,17 @@
    - **:school:Affiliation:** Xi'an Jiaotong - Liverpool University
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
+6. **RCBEVDet: Radar-camera Fusion in Bird’s Eye View for 3D Object Detection (24'CVPR)**
+   - **:link:Link: ** [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_RCBEVDet_Radar-camera_Fusion_in_Birds_Eye_View_for_3D_Object_CVPR_2024_paper.pdf) 
+   - **:school:Affiliation:** Peking University (Yongtao Wang)
+   - **:file_folder:Dataset:** VoD
+   - **:book:Note:** not only 4D mmWave Radar, but 3D Radar like Nuscenes
 
 
 
 
 ### Others
 
-1. **Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions (24'CVPR)**
-   - **:link:Link:** [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chae_Towards_Robust_3D_Object_Detection_with_LiDAR_and_4D_Radar_CVPR_2024_paper.html)  [code](https://github.com/yujeong-star/RL_3DOD)
-   - **:school:Affiliation:** KAIST (Yujeong Chae)
-   - **:file_folder:Dataset:** K-Radar
-   - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input. 
-   
 2. **LiDAR-based All-weather 3D Object Detection via Prompting and Distilling 4D Radar (24'ECCV)**
    - **:link:Link:** [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07349.pdf) [code (404, waiting for updates)](https://github.com/yujeong-star/LOD_PDR)
    - **:school:Affiliation:** KAIST (Yujeong Chae)
