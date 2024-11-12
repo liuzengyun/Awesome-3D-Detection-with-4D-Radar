@@ -1,5 +1,7 @@
 # Awesome-3D-Detection-with-4D-Radar
 
+【If you want to add anything to this repository, please create a PR or email to i@cvzoo.cn】
+
 ![Aptiv_4D_Radar_og](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/Aptiv_4D_Radar_og.jpg)
 
 ## Overview
@@ -96,6 +98,11 @@
 13. **Feature Fusion and Interaction Network for 3D Object Detection based on 4D Millimeter Wave Radars (24'CCC)**
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10662866)
     - **:school:Affiliation:** University of Science and Technology of China (Qiang Ling)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** 
+14. **Sparsity-Robust Feature Fusion for Vulnerable Road-User Detection with 4D Radar (24'Applied Sciences)**
+    - **:link:Link:** [paper](https://www.mdpi.com/2076-3417/14/7/2781)
+    - **:school:Affiliation:** Mannheim University of Applied Sciences (Oliver Wasenmüller)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
 
