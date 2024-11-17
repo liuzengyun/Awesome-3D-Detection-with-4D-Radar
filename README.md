@@ -225,9 +225,19 @@
 
 ## Survey Papers
 
-1. **4D mmWave Radar for Autonomous Driving Perception: A Comprehensive Survey (24'TIV)**
+1. **4D Millimeter-Wave Radar in Autonomous Driving: A Survey (23'arXiv)**
+   
+   -  **:link:Link:** [paper](https://arxiv.org/pdf/2306.04242)
+   -  **:school:Affiliation:** Tsinghua University (Jianqiang Wang)
+   
+2. **4D mmWave Radar for Autonomous Driving Perception: A Comprehensive Survey (24'TIV)**
+
    -  **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10477463) 
    -  **:school:Affiliation:** Beijing Institute of Technology (Lili Fan)
+
+3. **A Survey of Deep Learning Based Radar and Vision Fusion for 3D Object Detection in Autonomous Driving (24'arXiv)**
+
+   waiting for updates....................
 
 ## Basic Knowledge
 
