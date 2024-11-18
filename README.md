@@ -205,7 +205,7 @@
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
 6. **RCBEVDet: Radar-camera Fusion in Bird’s Eye View for 3D Object Detection (24'CVPR)**
-   - **:link:Link: ** [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_RCBEVDet_Radar-camera_Fusion_in_Birds_Eye_View_for_3D_Object_CVPR_2024_paper.pdf) 
+   - **:link:Link:** [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_RCBEVDet_Radar-camera_Fusion_in_Birds_Eye_View_for_3D_Object_CVPR_2024_paper.pdf) 
    - **:school:Affiliation:** Peking University (Yongtao Wang)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** not only 4D mmWave Radar, but 3D Radar like Nuscenes
