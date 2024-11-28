@@ -30,6 +30,7 @@
 |      L-RadSet      |                  4D Radar,LiDAR, 3 Cameras                   |     PC      |   24'TIV   | 3D bbox, TrackID | [github](https://github.com/crrasjtu/L-RadSet)  [paper](https://ieeexplore.ieee.org/abstract/document/10591452) |              11.2K frames; Annos range to 220m               |
 |      ZJUODset      |                    4D Radar,LiDAR, Camera                    |     PC      | 23'ICVISP  | 3D bbox, 2D bbox | [github](https://github.com/Ruoyu-Xu/ZJUODset) [paper](https://ieeexplore.ieee.org/abstract/document/10401068) |    19,000 frames of raw data and 3,800 annotated frames.     |
 |        CMD         | 32-beam LiDAR, 128-beam LiDAR, solid-state LiDAR, 4D Radar, 3 Cameras |     PC      |  24'ECCV   |     3D bbox      | [github](https://github.com/im-djh/CMD) [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07443.pdf) | 50 high-quality sequences, each spanning 20 seconds, equating to 200 frames per sensor |
+|       V2X-R        |              4D Radar,LiDAR, Camera (simulated)              |     PC      |  24'arXiv  |     3D bbox      | [github](https://github.com/ylwhxht/V2X-R) [paper](https://arxiv.org/pdf/2411.08402) | V2X-R contains 12,079 scenarios with 37,727 frames of LiDAR and 4D radar point clouds, 150,908 images |
 
 ## SOTA Papers
 
@@ -105,6 +106,11 @@
     - **:school:Affiliation:** Mannheim University of Applied Sciences (Oliver Wasenmüller)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
+15. **Enhanced 3D Object Detection using 4D Radar and Vision Fusion with Segmentation Assistance (24'preprint)**
+    - **:link:Link:** [paper](https://www.researchsquare.com/article/rs-5358941/v1) [code](https://github.com/Huniki/RVASANET)
+    - **:school:Affiliation:** Beijing Institute of Technology (Xuemei Chen)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** 
 
 
 
@@ -131,31 +137,26 @@
    - **:school:Affiliation:** Tsinghua University (Li Wang)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
-   
 2. **Multi-Modal and Multi-Scale Fusion 3D Object Detection of 4D Radar and LiDAR for Autonomous Driving (23'TVT)** 
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9991894)
    - **:school:Affiliation:** Tsinghua University (Li Wang)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
-   
 3. **L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.03677)
    - **:school:Affiliation:** Xiamen University
    - **:file_folder:Dataset:** VoD, K-Radar
    - **:book:Note:** For the K-Radar dataset, we preprocess the 4D radar spar setensor by selecting only the top 10240 points with high power measurement. This paper is submitted to 25'AAAI. 
-
 4. **Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation (24'ICRA)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10610775)  [code](https://github.com/DJNing/See_beyond_seeing)
    - **:school:Affiliation:** University of Edinburgh, University College London (Chris Xiaoxuan Lu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
-
 5. **Traffic Object Detection for Autonomous Driving Fusing LiDAR and Pseudo 4D-Radar Under Bird’s-Eye-View (24'TITS)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10571662)
    - **:school:Affiliation:** Xi’an Jiaotong University (Yonghong Song)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
-   
 6. **Fusing LiDAR and Radar with Pillars Attention for 3D Object Detection (24'International Symposium on Autonomous Systems (ISAS))**
 
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10552581)
@@ -168,12 +169,16 @@
    - **:school:Affiliation:** Zhejiang University (Zhiyu Xiang)
    - **:file_folder:Dataset:** ZJUODset
    - **:book:Note:** 
-
 8. **LEROjD: Lidar Extended Radar-Only Object Detection (24'ECCV)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2409.05564) [code](https://github.com/rst-tu-dortmund/lerojd)
    - **:school:Affiliation:**  TU Dortmund University (Patrick Palmer, Martin Krüger)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** "Although lidar should not be used during inference, it can aid the training of radar-only object detectors." 
+9. **V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion (24'arXiv)**
+   - **:link:Link:** [paper](https://arxiv.org/pdf/2411.08402) [code](https://github.com/ylwhxht/V2X-R)
+   - **:school:Affiliation:**  Xiamen University (Chenglu Wen)
+   - **:file_folder:Dataset:** V2X-R
+   - **:book:Note:** baseline method of V2X-R Datasets
 
 
 
@@ -261,7 +266,7 @@
 - [**Zhiyu Xiang**](https://mypage.zju.edu.cn/xiangzy#569131) @Zhejiang University, the author of ZJUODset Dataset
 - [**Yujeong Chae**](https://scholar.google.com/citations?user=2dP6JlQAAAAJ) and his PhD Advisor [**Kuk-Jin Yoon**](https://scholar.google.com/citations?user=1NvBj_gAAAAJ) @Korea Advanced Institute of Science and Technology (KAIST)
 - [**Lili Fan**](https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/6711569f697a43c08be59ba673ecf2bd.htm) @Beijing Institute of Technology
-- [**Chenglu Wen**](https://asc.xmu.edu.cn/t/wenchenglu) @Xiamen university, the author of CMD Dataset
+- [**Chenglu Wen**](https://asc.xmu.edu.cn/t/wenchenglu) @Xiamen university, the author of CMD Dataset and V2X-R Dataset
 
 
 
