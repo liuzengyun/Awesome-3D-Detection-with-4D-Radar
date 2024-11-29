@@ -111,6 +111,11 @@
     - **:school:Affiliation:** Beijing Institute of Technology (Xuemei Chen)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
+16. **RadarPillarDet: Multi-Pillar Feature Fusion with 4D Millimeter-Wave Radar for 3D Object Detection (24'SAE Technical Paper)**
+    - **:link:Link:** [paper](https://www.sae.org/publications/technical-papers/content/2024-01-7020/)
+    - **:school:Affiliation:** Tongji University (Zhixiong Ma)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** 
 
 
 
@@ -214,6 +219,11 @@
    - **:school:Affiliation:** Peking University (Yongtao Wang)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** not only 4D mmWave Radar, but 3D Radar like Nuscenes
+7. **MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving (24'arXiv)**
+   - **:link:Link:** [paper](https://arxiv.org/pdf/2411.15016)
+   - **:school:Affiliation:** University of Science andTechnology of China (Jun Liu)
+   - **:file_folder:Dataset:** VoD, TJ4DRadset
+   - **:book:Note:** 
 
 
 
