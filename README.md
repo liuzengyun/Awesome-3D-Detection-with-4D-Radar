@@ -224,6 +224,11 @@
    - **:school:Affiliation:** University of Science andTechnology of China (Jun Liu)
    - **:file_folder:Dataset:** VoD, TJ4DRadset
    - **:book:Note:** 
+8. **SGDet3D: Semantics and Geometry Fusion for 3D Object Detection Using 4D Radar and Camera (24'RA-L)**
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10783046) [code](https://github.com/shawnnnkb/SGDet3D)
+   - **:school:Affiliation:** Zhejiang University (Huiliang Shen)
+   - **:file_folder:Dataset:** VoD, TJ4DRadset
+   - **:book:Note:** 
 
 
 
@@ -231,7 +236,7 @@
 ### Others
 
 2. **LiDAR-based All-weather 3D Object Detection via Prompting and Distilling 4D Radar (24'ECCV)**
-   - **:link:Link:** [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07349.pdf) [code (404, waiting for updates)](https://github.com/yujeong-star/LOD_PDR)
+   - **:link:Link:** [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07349.pdf) [code (unfilled project)](https://github.com/yujeong-star/LOD_PDR)
    - **:school:Affiliation:** KAIST (Yujeong Chae)
    - **:file_folder:Dataset:** K-Radar
    - **:book:Note:** 
