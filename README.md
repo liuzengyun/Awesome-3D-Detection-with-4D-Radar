@@ -116,6 +116,11 @@
     - **:school:Affiliation:** Tongji University (Zhixiong Ma)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
+17. **MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection (24'ICANN)**
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.00565v1)
+    - **:school:Affiliation:** Technical University of Munich (Xiangyuan Peng)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
 
 
 
