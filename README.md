@@ -121,6 +121,11 @@
     - **:school:Affiliation:** Technical University of Munich (Xiangyuan Peng)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
+18. **Multi-Scale Pillars Fusion for 4D Radar Object Detection with Radar Data Enhancement (24'IEEE Sensors Journal)**
+    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10810267)
+    - **:school:Affiliation:** Chinese Academy of Sciences (Zhe Zhang)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** 
 
 
 
