@@ -239,6 +239,11 @@
    - **:school:Affiliation:** Zhejiang University (Huiliang Shen)
    - **:file_folder:Dataset:** VoD, TJ4DRadset
    - **:book:Note:** 
+9. **ERC-Fusion: Fusing Enhanced 4D Radar and Camera for 3D Object Detection (24'DTPI)**
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10778707/)
+   - **:school:Affiliation:** Beijing Institute of Technology (Lili Fan)
+   - **:file_folder:Dataset:** VoD
+   - **:book:Note:** 
 
 
 
