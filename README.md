@@ -251,11 +251,18 @@
 
 ### Others
 
-2. **LiDAR-based All-weather 3D Object Detection via Prompting and Distilling 4D Radar (24'ECCV)**
+1. **LiDAR-based All-weather 3D Object Detection via Prompting and Distilling 4D Radar (24'ECCV)**
    - **:link:Link:** [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07349.pdf) [code (unfilled project)](https://github.com/yujeong-star/LOD_PDR)
    - **:school:Affiliation:** KAIST (Yujeong Chae)
    - **:file_folder:Dataset:** K-Radar
    - **:book:Note:** 
+
+2. **Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions (24'ITSC)**
+   - **:link:Link:** [paper](https://arxiv.org/pdf/2408.06772)
+   - **:school:Affiliation:** Robert Bosch GmbH (Miao Zhang)
+   - **:file_folder:Dataset:** K-Radar, Bosch-Radar
+   - **:book:Note:** 
+
 
 
 
@@ -302,14 +309,5 @@
 - [**Yujeong Chae**](https://scholar.google.com/citations?user=2dP6JlQAAAAJ) and his PhD Advisor [**Kuk-Jin Yoon**](https://scholar.google.com/citations?user=1NvBj_gAAAAJ) @Korea Advanced Institute of Science and Technology (KAIST)
 - [**Lili Fan**](https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/6711569f697a43c08be59ba673ecf2bd.htm) @Beijing Institute of Technology
 - [**Chenglu Wen**](https://asc.xmu.edu.cn/t/wenchenglu) @Xiamen university, the author of CMD Dataset and V2X-R Dataset
-
-
-
-
-
-
-
-
-
 
 
