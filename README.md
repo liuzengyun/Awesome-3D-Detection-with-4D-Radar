@@ -245,6 +245,11 @@
    - **:school:Affiliation:** Beijing Institute of Technology (Lili Fan)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
+10. **HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection (25'AAAI)**
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2412.11489) [code](https://github.com/garfield-cpp/HGSFusion)
+    - **:school:Affiliation:** Southeast University (Yan Huang)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
 
 
 
