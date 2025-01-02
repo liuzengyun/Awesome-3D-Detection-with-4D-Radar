@@ -127,6 +127,11 @@
     - **:school:Affiliation:** Chinese Academy of Sciences (Zhe Zhang)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
+19. **SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection (24'arXiv)**
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2412.14571) [code(unfilled project)](https://github.com/Ruoyu-Xu/SCKD)
+    - **:school:Affiliation:** Zhejiang University (Zhiyu Xiang)
+    - **:file_folder:Dataset:** VoD, ZJUODset
+    - **:book:Note:** The teacher is a Lidar-Radar bi-modality fusion network, while the student is a radaronly network. By the effective knowledge distillation of the teacher, the student can learn to extract sophisticated feature from the radar input and boost its detection performance.
 
 
 
