@@ -127,7 +127,12 @@
     - **:school:Affiliation:** Chinese Academy of Sciences (Zhe Zhang)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-19. **SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection (24'arXiv)**
+19. mBox: 3D object detection based on millimeter-wave radar (24'Measurement)
+    - **:link:Link:** [paper](https://www.sciencedirect.com/science/article/pii/S0263224124024539) 
+    - **:school:Affiliation:** China University of Petroleum East China (Tingpei Huang)
+    - **:file_folder:Dataset:** Astyx
+    - **:book:Note:** 
+20. **SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection (25'AAAI)**
     - **:link:Link:** [paper](https://arxiv.org/pdf/2412.14571) [code(unfilled project)](https://github.com/Ruoyu-Xu/SCKD)
     - **:school:Affiliation:** Zhejiang University (Zhiyu Xiang)
     - **:file_folder:Dataset:** VoD, ZJUODset
@@ -179,13 +184,11 @@
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
 6. **Fusing LiDAR and Radar with Pillars Attention for 3D Object Detection (24'International Symposium on Autonomous Systems (ISAS))**
-
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10552581)
    - **:school:Affiliation:** Zhejiang University (Liang Liu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
 7. **RLNet: Adaptive Fusion of 4D Radar and Lidar for 3D Object Detection (24'ECCVW)**
-
    - **:link:Link:** [paper and reviews](https://openreview.net/forum?id=I5IIhtSbMe)
    - **:school:Affiliation:** Zhejiang University (Zhiyu Xiang)
    - **:file_folder:Dataset:** ZJUODset
@@ -279,15 +282,11 @@
 ## Survey Papers
 
 1. **4D Millimeter-Wave Radar in Autonomous Driving: A Survey (23'arXiv)**
-   
    -  **:link:Link:** [paper](https://arxiv.org/pdf/2306.04242)
    -  **:school:Affiliation:** Tsinghua University (Jianqiang Wang)
-   
 2. **4D mmWave Radar for Autonomous Driving Perception: A Comprehensive Survey (24'TIV)**
-
    -  **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10477463) 
    -  **:school:Affiliation:** Beijing Institute of Technology (Lili Fan)
-
 3. **A Survey of Deep Learning Based Radar and Vision Fusion for 3D Object Detection in Autonomous Driving (24'arXiv)**
 
    waiting for updates....................
