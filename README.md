@@ -127,7 +127,7 @@
     - **:school:Affiliation:** Chinese Academy of Sciences (Zhe Zhang)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-19. mBox: 3D object detection based on millimeter-wave radar (24'Measurement)
+19. **mBox: 3D object detection based on millimeter-wave radar (24'Measurement)**
     - **:link:Link:** [paper](https://www.sciencedirect.com/science/article/pii/S0263224124024539) 
     - **:school:Affiliation:** China University of Petroleum East China (Tingpei Huang)
     - **:file_folder:Dataset:** Astyx
@@ -313,7 +313,7 @@
 - [**Bing Zhu**](https://shi.buaa.edu.cn/zhubing/zh_CN/index.htm) @Beihang University
 - [**Lin Yang**](https://me.sjtu.edu.cn/teacher_directory1/2080.html) @Shanghai Jiao Tong University
 - [**Chris Xiaoxuan Lu**](https://christopherlu.github.io) @University College London (UCL)
-- [**Zhixiong Ma**](https://ieeexplore.ieee.org/author/37085837925) @Chinese Institute for Brain Research (ex. Tongji University), the author of TJ4DRadSet Dataset and OmniHD-Scenes Dataset
+- [**Zhixiong Ma**](https://ieeexplore.ieee.org/author/37085837925) @Tongji University, the author of TJ4DRadSet Dataset and OmniHD-Scenes Dataset
 - [**Zhiyu Xiang**](https://mypage.zju.edu.cn/xiangzy#569131) @Zhejiang University, the author of ZJUODset Dataset
 - [**Yujeong Chae**](https://scholar.google.com/citations?user=2dP6JlQAAAAJ) and his PhD Advisor [**Kuk-Jin Yoon**](https://scholar.google.com/citations?user=1NvBj_gAAAAJ) @Korea Advanced Institute of Science and Technology (KAIST)
 - [**Lili Fan**](https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/6711569f697a43c08be59ba673ecf2bd.htm) @Beijing Institute of Technology
