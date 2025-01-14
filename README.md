@@ -137,6 +137,11 @@
     - **:school:Affiliation:** Zhejiang University (Zhiyu Xiang)
     - **:file_folder:Dataset:** VoD, ZJUODset
     - **:book:Note:** The teacher is a Lidar-Radar bi-modality fusion network, while the student is a radaronly network. By the effective knowledge distillation of the teacher, the student can learn to extract sophisticated feature from the radar input and boost its detection performance.
+21. **RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar (25'arXiv)**
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2501.02314v1) 
+    - **:school:Affiliation:** Institute of Deep Perception Technology, JITRI
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
 
 
 
@@ -257,6 +262,11 @@
     - **:link:Link:** [paper](https://arxiv.org/pdf/2412.11489) [code](https://github.com/garfield-cpp/HGSFusion)
     - **:school:Affiliation:** Southeast University (Yan Huang)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
+11. **C4RFNet: Camera and 4D-Radar Fusion Network for Point Cloud Enhancement (24'IEEE Sensors Journal)**
+    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10824694)
+    - **:school:Affiliation:** Nanjing University of Science and Technology (Weibin Zhang)
+    - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
 
 
