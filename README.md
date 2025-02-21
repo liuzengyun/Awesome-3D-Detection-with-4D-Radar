@@ -169,46 +169,65 @@
    - **:school:Affiliation:** Tsinghua University (Li Wang)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
+   
 2. **Multi-Modal and Multi-Scale Fusion 3D Object Detection of 4D Radar and LiDAR for Autonomous Driving (23'TVT)** 
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9991894)
    - **:school:Affiliation:** Tsinghua University (Li Wang)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
+   
 3. **L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.03677)
    - **:school:Affiliation:** Xiamen University
    - **:file_folder:Dataset:** VoD, K-Radar
    - **:book:Note:** For the K-Radar dataset, we preprocess the 4D radar spar setensor by selecting only the top 10240 points with high power measurement. This paper is submitted to 25'AAAI. 
+   
 4. **Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation (24'ICRA)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10610775)  [code](https://github.com/DJNing/See_beyond_seeing)
    - **:school:Affiliation:** University of Edinburgh, University College London (Chris Xiaoxuan Lu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
+   
 5. **Traffic Object Detection for Autonomous Driving Fusing LiDAR and Pseudo 4D-Radar Under Bird’s-Eye-View (24'TITS)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10571662)
    - **:school:Affiliation:** Xi’an Jiaotong University (Yonghong Song)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
+   
 6. **Fusing LiDAR and Radar with Pillars Attention for 3D Object Detection (24'International Symposium on Autonomous Systems (ISAS))**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10552581)
    - **:school:Affiliation:** Zhejiang University (Liang Liu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
+   
 7. **RLNet: Adaptive Fusion of 4D Radar and Lidar for 3D Object Detection (24'ECCVW)**
    - **:link:Link:** [paper and reviews](https://openreview.net/forum?id=I5IIhtSbMe)
    - **:school:Affiliation:** Zhejiang University (Zhiyu Xiang)
    - **:file_folder:Dataset:** ZJUODset
    - **:book:Note:** 
+   
 8. **LEROjD: Lidar Extended Radar-Only Object Detection (24'ECCV)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2409.05564) [code](https://github.com/rst-tu-dortmund/lerojd)
    - **:school:Affiliation:**  TU Dortmund University (Patrick Palmer, Martin Krüger)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** "Although lidar should not be used during inference, it can aid the training of radar-only object detectors." 
+   
 9. **V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2411.08402) [code](https://github.com/ylwhxht/V2X-R)
    - **:school:Affiliation:**  Xiamen University (Chenglu Wen)
    - **:file_folder:Dataset:** V2X-R
    - **:book:Note:** baseline method of V2X-R Datasets
+   
+10. **MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection (25'arXiv)**
+
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2501.10266) 
+    - **:school:Affiliation:** Technical University of Munich (Xiangyuan Peng)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** 
+
+    ![image-20250221173704126](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250221173704126.png)
+
+11. 
 
 
 
