@@ -257,7 +257,14 @@
 
     ![image-20250221173704126](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250221173704126.png)
 
-11. 
+11. **BSM-NET: multi-bandwidth, multi-scale and multi-modal fusion network for 3D object detection of 4D radar and LiDAR (25'Measurement Science and Technology)**
+
+    - **:link:Link:** [paper](https://iopscience.iop.org/article/10.1088/1361-6501/adafcb/meta)
+    - **:school:Affiliation:** Anhui University (Runjie Kang)
+    - **:file_folder:Dataset:** Dual-Radar
+    - **:book:Note:** 
+
+    ![image-20250224140921607](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250224140921607.png)
 
 
 
