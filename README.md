@@ -331,6 +331,7 @@
     - **:book:Note:** 
     
 11. **C4RFNet: Camera and 4D-Radar Fusion Network for Point Cloud Enhancement (24'IEEE Sensors Journal)**
+    
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10824694)
     - **:school:Affiliation:** Nanjing University of Science and Technology (Weibin Zhang)
     - **:file_folder:Dataset:** VoD
@@ -344,6 +345,15 @@
     - **:book:Note:** 
 
     ![image-20250221215724080](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250221215724080.png)
+    
+13. **LXLv2: Enhanced LiDAR Excluded Lean 3D Object Detection with Fusion of 4D Radar and Camera (25'RA-L)**
+
+    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10858389)
+    - **:school:Affiliation:** Beihang University (Bing Zhu)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
+
+    ![image-20250224191411136](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250224191411136.png)
 
 
 
@@ -404,5 +414,6 @@
 - [**Yujeong Chae**](https://scholar.google.com/citations?user=2dP6JlQAAAAJ) and his PhD Advisor [**Kuk-Jin Yoon**](https://scholar.google.com/citations?user=1NvBj_gAAAAJ) @Korea Advanced Institute of Science and Technology (KAIST)
 - [**Lili Fan**](https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/6711569f697a43c08be59ba673ecf2bd.htm) @Beijing Institute of Technology
 - [**Chenglu Wen**](https://asc.xmu.edu.cn/t/wenchenglu) @Xiamen university, the author of CMD Dataset and V2X-R Dataset
+- [**Seung-Hyun Kong**](https://mo.kaist.ac.kr/en/professor/gong-seung-hyun/) @Korea Advanced Institute of Science and Technology (KAIST), the author of K-Radar Dataset
 
 
