@@ -8,8 +8,7 @@
 
 - [Datasets](#Datasets)
 - [SOTA Papers](#SOTA-Papers)
-  - [From 4D Radar Point Cloud](#From-4D-Radar-Point-Cloud)
-  - [From 4D Radar Tensor](#From-4D-Radar-Tensor)
+  - [From 4D Radar  (Point Cloud&Radar Tensor)](#From-4D-Radar-(Point-Cloud&Radar-Tensor))
   - [Fusion of 4D Radar & LiDAR](#Fusion-of-4D-Radar-&-LiDAR)
   - [Fusion of 4D Radar & RGB Camera](#Fusion-of-4D-Radar-&-RGB-Camera)
   - [Others](#Others)
@@ -36,7 +35,7 @@
 
 ## SOTA Papers
 
-### From 4D Radar Point Cloud
+### From 4D Radar (Point Cloud&Radar Tensor)
 
 1. **RPFA-Net: a 4D RaDAR Pillar Feature Attention Network for 3D Object Detection (21'ITSC)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9564754) [code](https://github.com/Nerdmust/astyx-pcdet-radar)
@@ -86,86 +85,100 @@
    - **:file_folder:Dataset:** HR4D (self-collected and not open source)
    - **:book:Note:** 
    
-9. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
-   - **:link:Link:** [paper](https://arxiv.org/pdf/2408.05020)
-   - **:school:Affiliation:** Mannheim University of Applied Sciences, Germany
-   - **:file_folder:Dataset:** VoD
-   - **:book:Note:** 
-   
-10. **VA-Net: 3D Object Detection with 4D Radar Based on Self-Attention (24'CVDL)**
+9. **Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions (24'CVPR)**
+
+   - **:link:Link:** [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chae_Towards_Robust_3D_Object_Detection_with_LiDAR_and_4D_Radar_CVPR_2024_paper.html)  [code](https://github.com/yujeong-star/RL_3DOD)
+   - **:school:Affiliation:** KAIST (Yujeong Chae)
+   - **:file_folder:Dataset:** K-Radar
+   - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input. 
+
+10. **CenterRadarNet: Joint 3D Object Detection and Tracking Framework using 4D FMCW Radar (24'ICIP)**
+
+    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10648077) 
+    - **:school:Affiliation:** University of Washington (Jen-Hao Cheng)
+    - **:file_folder:Dataset:** K-Radar
+    - **:book:Note:** 4D radar tensor as inputs
+
+11. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.05020)
+    - **:school:Affiliation:** Mannheim University of Applied Sciences, Germany
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** 
+
+12. **VA-Net: 3D Object Detection with 4D Radar Based on Self-Attention (24'CVDL)**
     - **:link:Link:** [paper](https://dl.acm.org/doi/abs/10.1145/3653804.3654611)
     - **:school:Affiliation:** Hunan Normal University (Bo Yang)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-    
-11. **RTNH+: Enhanced 4D Radar Object Detection Network using Two-Level Preprocessing and Vertical Encoding (24'TIV)**
+
+13. **RTNH+: Enhanced 4D Radar Object Detection Network using Two-Level Preprocessing and Vertical Encoding (24'TIV)**
     - **:link:Link:** [code](https://github.com/kaist-avelab/k-radar)  [paper](https://arxiv.org/pdf/2206.08171)
     - **:school:Affiliation:** KAIST (Seung-Hyun Kong)
     - **:file_folder:Dataset:** K-Radar
     - **:book:Note:** The enhanced baseline of K-Radar. 
-    
-12. **RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud (24'ICRA)**
+
+14. **RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud (24'ICRA)**
     - **:link:Link:** [code](https://github.com/LJacksonPan/RaTrack) 
     - **:school:Affiliation:** Royal College of Art, University College London (Chris Xiaoxuan Lu)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-    
-13. **Feature Fusion and Interaction Network for 3D Object Detection based on 4D Millimeter Wave Radars (24'CCC)**
+
+15. **Feature Fusion and Interaction Network for 3D Object Detection based on 4D Millimeter Wave Radars (24'CCC)**
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10662866)
     - **:school:Affiliation:** University of Science and Technology of China (Qiang Ling)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-    
-14. **Sparsity-Robust Feature Fusion for Vulnerable Road-User Detection with 4D Radar (24'Applied Sciences)**
+
+16. **Sparsity-Robust Feature Fusion for Vulnerable Road-User Detection with 4D Radar (24'Applied Sciences)**
     - **:link:Link:** [paper](https://www.mdpi.com/2076-3417/14/7/2781)
     - **:school:Affiliation:** Mannheim University of Applied Sciences (Oliver Wasenmüller)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-    
-15. **Enhanced 3D Object Detection using 4D Radar and Vision Fusion with Segmentation Assistance (24'preprint)**
+
+17. **Enhanced 3D Object Detection using 4D Radar and Vision Fusion with Segmentation Assistance (24'preprint)**
     - **:link:Link:** [paper](https://www.researchsquare.com/article/rs-5358941/v1) [code](https://github.com/Huniki/RVASANET)
     - **:school:Affiliation:** Beijing Institute of Technology (Xuemei Chen)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-    
-16. **RadarPillarDet: Multi-Pillar Feature Fusion with 4D Millimeter-Wave Radar for 3D Object Detection (24'SAE Technical Paper)**
+
+18. **RadarPillarDet: Multi-Pillar Feature Fusion with 4D Millimeter-Wave Radar for 3D Object Detection (24'SAE Technical Paper)**
     - **:link:Link:** [paper](https://www.sae.org/publications/technical-papers/content/2024-01-7020/)
     - **:school:Affiliation:** Tongji University (Zhixiong Ma)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-    
-17. **MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection (24'ICANN)**
+
+19. **MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection (24'ICANN)**
     - **:link:Link:** [paper](https://arxiv.org/pdf/2408.00565v1)
     - **:school:Affiliation:** Technical University of Munich (Xiangyuan Peng)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-    
-18. **Multi-Scale Pillars Fusion for 4D Radar Object Detection with Radar Data Enhancement (24'IEEE Sensors Journal)**
-    
+
+20. **Multi-Scale Pillars Fusion for 4D Radar Object Detection with Radar Data Enhancement (24'IEEE Sensors Journal)**
+
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10810267)
     - **:school:Affiliation:** Chinese Academy of Sciences (Zhe Zhang)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-    
-19. **mBox: 3D object detection based on millimeter-wave radar (24'Measurement)**
+
+21. **mBox: 3D object detection based on millimeter-wave radar (24'Measurement)**
     - **:link:Link:** [paper](https://www.sciencedirect.com/science/article/pii/S0263224124024539) 
     - **:school:Affiliation:** China University of Petroleum East China (Tingpei Huang)
     - **:file_folder:Dataset:** Astyx
     - **:book:Note:** 
-    
-20. **SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection (25'AAAI)**
+
+22. **SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection (25'AAAI)**
     - **:link:Link:** [paper](https://arxiv.org/pdf/2412.14571) [code(unfilled project)](https://github.com/Ruoyu-Xu/SCKD)
     - **:school:Affiliation:** Zhejiang University (Zhiyu Xiang)
     - **:file_folder:Dataset:** VoD, ZJUODset
     - **:book:Note:** The teacher is a Lidar-Radar bi-modality fusion network, while the student is a radaronly network. By the effective knowledge distillation of the teacher, the student can learn to extract sophisticated feature from the radar input and boost its detection performance.
-    
-21. **RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar (25'arXiv)**
+
+23. **RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar (25'arXiv)**
     - **:link:Link:** [paper](https://arxiv.org/pdf/2501.02314v1) 
     - **:school:Affiliation:** Institute of Deep Perception Technology, JITRI
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-    
-22. **DADAN: Dynamic-Augmented and Density-Aware Network for Accurate 3D Object Detection with 4D Radar (25'IEEE Sensors Journal)**
+
+24. **DADAN: Dynamic-Augmented and Density-Aware Network for Accurate 3D Object Detection with 4D Radar (25'IEEE Sensors Journal)**
 
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10847758)
     - **:school:Affiliation:** Shenzhen University (Xingzheng Wang)
@@ -174,20 +187,14 @@
 
     ![image-20250221215107420](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250221215107420.png)
 
+25. **SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection (25'arXiv)**
 
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2502.00074)
+    - **:school:Affiliation:** KAIST (Seung-Hyun Kong)
+    - **:file_folder:Dataset:** K-Radar
+    - **:book:Note:** 
 
-### From 4D Radar Tensor
-
-1. **Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions (24'CVPR)**
-   - **:link:Link:** [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chae_Towards_Robust_3D_Object_Detection_with_LiDAR_and_4D_Radar_CVPR_2024_paper.html)  [code](https://github.com/yujeong-star/RL_3DOD)
-   - **:school:Affiliation:** KAIST (Yujeong Chae)
-   - **:file_folder:Dataset:** K-Radar
-   - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input. 
-2. **CenterRadarNet: Joint 3D Object Detection and Tracking Framework using 4D FMCW Radar (24'ICIP)**
-   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10648077) 
-   - **:school:Affiliation:** University of Washington (Jen-Hao Cheng)
-   - **:file_folder:Dataset:** K-Radar
-   - **:book:Note:** 
+    ![image-20250225104437407](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250225104437407.png)
 
 
 
@@ -265,6 +272,8 @@
     - **:book:Note:** 
 
     ![image-20250224140921607](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250224140921607.png)
+
+
 
 
 
@@ -354,6 +363,15 @@
     - **:book:Note:** 
 
     ![image-20250224191411136](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250224191411136.png)
+    
+14. **Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection (24'IEEE ROBIO)**
+
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2502.15516)
+    - **:school:Affiliation:** Shanghai Jiao Tong University (Yeqiang Qian)
+    - **:file_folder:Dataset:** K-Radar
+    - **:book:Note:** Radar Tensor and Camera Image
+
+    ![image-20250227101227256](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250227101227256.png)
 
 
 
@@ -391,7 +409,7 @@
 
 ## Basic Knowledge
 
-### What is 4D Radar?
+### What is 3D Object Detection with 4D Radar?
 
 3D object detection is able to obtain the position, size and orientation information of objects in 3D space, and is widely used in automatic driving perception, robot manipulation, and other applications. In 3D object detection, sensors such as LiDAR, RGB camera and depth camera are commonly used. In recent years, several works have been proposed to utilize 4D radar as a primary or secondary sensor to achieve 3D object detection. 4D radar, also known as 4D millimeter wave (mmWave) radar or 4D imaging radar. Compared to 3D radar, 4D radar not only obtains the distance, direction and relative velocity (Doppler velocity) of the target object, but also detects the height of the object. Due to its robustness against different weather conditions and lower cost, 4D radar is expected to replace low beam LiDAR in the future. This repo summarizes the 4D radar based 3D object detection methods and datasets. 
 
@@ -400,6 +418,8 @@
 - **PC:** **P**oint **C**loud
 - **ADC:** **A**nalog-to-**D**igital **C**onverter signal
 - **RT:** **R**adar **T**ensor (include **R**ange-**A**zimuth-**D**oppler Tensor, **R**ange-**A**zimuth Tensor, **R**ange-Doppler Tensor)
+
+### Other Materials
 
 
 
