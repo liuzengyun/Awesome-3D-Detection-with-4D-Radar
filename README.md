@@ -272,6 +272,15 @@
     - **:book:Note:** 
 
     ![image-20250224140921607](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250224140921607.png)
+    
+12. **A Novel Multi-Teacher Knowledge Distillation for Real-Time Object Detection using 4D Radar (25'arXiv)**
+
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2502.06114)
+    - **:school:Affiliation:** KAIST (Seung-Hyun Kong)
+    - **:file_folder:Dataset:** K-Radar
+    - **:book:Note:** 
+
+    ![image-20250305110419137](C:\Users\liuzengyun\AppData\Roaming\Typora\typora-user-images\image-20250305110419137.png)
 
 
 
