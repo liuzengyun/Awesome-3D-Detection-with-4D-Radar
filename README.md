@@ -196,7 +196,7 @@
 
     ![image-20250225104437407](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250225104437407.png)
     
-26. **Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds? (25'IROS)**
+26. **Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds? (25'arXiv)**
 
     - **:link:Link:** [paper](https://arxiv.org/pdf/2503.02687)
     - **:school:Affiliation:** Robert Bosch GmbH (Miao Zhang)
