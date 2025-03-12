@@ -394,11 +394,15 @@
    - **:file_folder:Dataset:** K-Radar
    - **:book:Note:** 
 
+   ![image-20250312100256034](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/20250312100319563.png)
+   
 2. **Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions (24'ITSC)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.06772)
    - **:school:Affiliation:** Robert Bosch GmbH (Miao Zhang)
    - **:file_folder:Dataset:** K-Radar, Bosch-Radar
    - **:book:Note:** 
+   
+   ![image-20250312100403045](C:\Users\liuzengyun\AppData\Roaming\Typora\typora-user-images\image-20250312100403045.png)
 
 
 
@@ -408,12 +412,17 @@
 1. **4D Millimeter-Wave Radar in Autonomous Driving: A Survey (23'arXiv)**
    -  **:link:Link:** [paper](https://arxiv.org/pdf/2306.04242)
    -  **:school:Affiliation:** Tsinghua University (Jianqiang Wang)
+   
 2. **4D mmWave Radar for Autonomous Driving Perception: A Comprehensive Survey (24'TIV)**
    -  **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10477463) 
    -  **:school:Affiliation:** Beijing Institute of Technology (Lili Fan)
+   
 3. **A Survey of Deep Learning Based Radar and Vision Fusion for 3D Object Detection in Autonomous Driving (24'arXiv)**
 
-   waiting for updates....................
+   -  **:link:Link:** [paper](https://arxiv.org/pdf/2406.00714)
+   -  **:school:Affiliation:** Northwestern Polytechnical University (Feng Yang)
+   
+   
 
 
 
