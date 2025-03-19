@@ -2,7 +2,7 @@
 
 【If you want to add anything to this repository, please create a PR or email to i@cvzoo.cn】
 
-![Aptiv_4D_Radar_og](pics\Aptiv_4D_Radar_og.jpg)
+![Aptiv_4D_Radar_og](pics/Aptiv_4D_Radar_og.jpg)
 
 ## Overview
 
@@ -178,7 +178,7 @@
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
 
-    ![image-20250317114534093](pics\20250317114535972.png)
+    ![image-20250317114534093](pics/20250317114535972.png)
     
 24. **DADAN: Dynamic-Augmented and Density-Aware Network for Accurate 3D Object Detection with 4D Radar (25'IEEE Sensors Journal)**
 
@@ -187,7 +187,7 @@
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
 
-    ![image-20250221215107420](pics\image-20250221215107420.png)
+    ![image-20250221215107420](pics/image-20250221215107420.png)
 
 25. **SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection (25'arXiv)**
 
@@ -196,7 +196,7 @@
     - **:file_folder:Dataset:** K-Radar
     - **:book:Note:** 
 
-    ![image-20250225104437407](pics\image-20250225104437407.png)
+    ![image-20250225104437407](pics/image-20250225104437407.png)
     
 
 
@@ -252,7 +252,7 @@
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** "Although lidar should not be used during inference, it can aid the training of radar-only object detectors." 
    
-   ![image-20250312102743877](pics\20250312102745366.png)
+   ![image-20250312102743877](pics/20250312102745366.png)
    
 9. **V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2411.08402) [code](https://github.com/ylwhxht/V2X-R)
@@ -260,7 +260,7 @@
    - **:file_folder:Dataset:** V2X-R
    - **:book:Note:** baseline method of V2X-R Datasets
    
-   ![image-20250312102521360](pics\20250312102523274.png)
+   ![image-20250312102521360](pics/20250312102523274.png)
    
 10. **MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection (25'arXiv)**
 
@@ -269,7 +269,7 @@
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
 
-    ![image-20250221173704126](pics\image-20250221173704126.png)
+    ![image-20250221173704126](pics/image-20250221173704126.png)
 
 11. **BSM-NET: multi-bandwidth, multi-scale and multi-modal fusion network for 3D object detection of 4D radar and LiDAR (25'Measurement Science and Technology)**
 
@@ -278,7 +278,7 @@
     - **:file_folder:Dataset:** Dual-Radar
     - **:book:Note:** 
 
-    ![image-20250224140921607](pics\image-20250224140921607.png)
+    ![image-20250224140921607](pics/image-20250224140921607.png)
     
 12. **A Novel Multi-Teacher Knowledge Distillation for Real-Time Object Detection using 4D Radar (25'arXiv)**
 
@@ -287,7 +287,7 @@
     - **:file_folder:Dataset:** K-Radar
     - **:book:Note:** 
 
-    ![image-20250305232956332](pics\image-20250305232956332.png)
+    ![image-20250305232956332](pics/image-20250305232956332.png)
 
 
 
@@ -355,7 +355,7 @@
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
     
-    ![image-20250313215655516](pics\20250313215710138.png)
+    ![image-20250313215655516](pics/20250313215710138.png)
     
 11. **C4RFNet: Camera and 4D-Radar Fusion Network for Point Cloud Enhancement (24'IEEE Sensors Journal)**
     
@@ -364,7 +364,7 @@
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
     
-    ![image-20250313215629638](pics\20250313215707442.png)
+    ![image-20250313215629638](pics/20250313215707442.png)
     
 12. **Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception (25'arXiv)**
 
@@ -373,7 +373,7 @@
     - **:file_folder:Dataset:** OmniHD-Scenes, VoD, TJ4DRadSet
     - **:book:Note:** 
 
-    ![image-20250221215724080](pics\image-20250221215724080.png)
+    ![image-20250221215724080](pics/image-20250221215724080.png)
     
 13. **LXLv2: Enhanced LiDAR Excluded Lean 3D Object Detection with Fusion of 4D Radar and Camera (25'RA-L)**
 
@@ -382,7 +382,7 @@
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
 
-    ![image-20250224191411136](pics\image-20250224191411136.png)
+    ![image-20250224191411136](pics/image-20250224191411136.png)
     
 14. **Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection (24'IEEE ROBIO)**
 
@@ -391,7 +391,7 @@
     - **:file_folder:Dataset:** K-Radar
     - **:book:Note:** Radar Tensor and Camera Image
 
-    ![image-20250227101227256](pics\image-20250227101227256.png)
+    ![image-20250227101227256](pics/image-20250227101227256.png)
 
 
 
@@ -404,7 +404,7 @@
    - **:file_folder:Dataset:** K-Radar
    - **:book:Note:** 
 
-   ![image-20250312100256034](pics\20250312100319563.png)
+   ![image-20250312100256034](pics/20250312100319563.png)
    
 2. **Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions (24'ITSC)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.06772)
