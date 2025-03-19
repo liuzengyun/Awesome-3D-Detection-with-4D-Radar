@@ -210,11 +210,15 @@
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
    
+   ![image-20250319150659632](pics/image-20250319150659632.png)
+   
 2. **Multi-Modal and Multi-Scale Fusion 3D Object Detection of 4D Radar and LiDAR for Autonomous Driving (23'TVT)** 
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9991894)
    - **:school:Affiliation:** Tsinghua University (Li Wang)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
+   
+   ![image-20250319150538155](pics/image-20250319150538155.png)
    
 3. **L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.03677)
@@ -222,11 +226,15 @@
    - **:file_folder:Dataset:** VoD, K-Radar
    - **:book:Note:** For the K-Radar dataset, we preprocess the 4D radar spar setensor by selecting only the top 10240 points with high power measurement. This paper is submitted to 25'AAAI. 
    
+   ![image-20250319150503150](pics/image-20250319150503150.png)
+   
 4. **Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation (24'ICRA)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10610775)  [code](https://github.com/DJNing/See_beyond_seeing)
    - **:school:Affiliation:** University of Edinburgh, University College London (Chris Xiaoxuan Lu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
+   
+   ![image-20250319150435072](pics/image-20250319150435072.png)
    
 5. **Traffic Object Detection for Autonomous Driving Fusing LiDAR and Pseudo 4D-Radar Under Bird’s-Eye-View (24'TITS)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10571662)
@@ -234,17 +242,23 @@
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
    
+   ![image-20250319150354346](pics/image-20250319150354346.png)
+   
 6. **Fusing LiDAR and Radar with Pillars Attention for 3D Object Detection (24'International Symposium on Autonomous Systems (ISAS))**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10552581)
    - **:school:Affiliation:** Zhejiang University (Liang Liu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
    
+   ![image-20250319150315797](pics/image-20250319150315797.png)
+   
 7. **RLNet: Adaptive Fusion of 4D Radar and Lidar for 3D Object Detection (24'ECCVW)**
    - **:link:Link:** [paper and reviews](https://openreview.net/forum?id=I5IIhtSbMe)
    - **:school:Affiliation:** Zhejiang University (Zhiyu Xiang)
    - **:file_folder:Dataset:** ZJUODset
    - **:book:Note:** 
+   
+   ![image-20250319150240657](pics/image-20250319150240657.png)
    
 8. **LEROjD: Lidar Extended Radar-Only Object Detection (24'ECCV)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2409.05564) [code](https://github.com/rst-tu-dortmund/lerojd)
@@ -301,17 +315,24 @@
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
    
+   ![image-20250319150132139](pics/image-20250319150132139.png)
+   
 2. **GRC-Net: Fusing GAT-Based 4D Radar and Camera for 3D Object Detection (23'SAE Technical Paper)**
    - **:link:Link:** [paper](https://www.sae.org/publications/technical-papers/content/2023-01-7088/)
    - **:school:Affiliation:** Beijing Institute of Technology (Lili Fan)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
    
+   ![image-20250319150045542](pics/image-20250319150045542.png)
+   
 3. **LXL: LiDAR Excluded Lean 3D Object DetectionWith 4D Imaging Radar and Camera Fusion (24'TIV)**
+   
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10268601)
    - **:school:Affiliation:** Beihang University (Bing Zhu)
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
+   
+   ![image-20250319145929074](pics/image-20250319145929074.png)
    
 4. **TL-4DRCF: A Two-Level 4-D Radar–Camera Fusion Method for Object Detection in Adverse Weather (24'IEEE Sensors Journal)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10491101) 
@@ -319,11 +340,15 @@
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** Beyond the VoD, the LiDAR point cloud and images of the VoD dataset are processed with artificial fog to obtain the VoD-Fog dataset for validating our model. 
    
+   ![image-20250319145848037](pics/image-20250319145848037.png)
+   
 5. **UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/abs/2409.14751)
    - **:school:Affiliation:** Xi'an Jiaotong - Liverpool University
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
+   
+   ![image-20250319145711956](pics/image-20250319145711956.png)
    
 6. **RCBEVDet: Radar-camera Fusion in Bird’s Eye View for 3D Object Detection (24'CVPR)**
    - **:link:Link:** [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_RCBEVDet_Radar-camera_Fusion_in_Birds_Eye_View_for_3D_Object_CVPR_2024_paper.pdf) 
@@ -331,11 +356,15 @@
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** not only 4D mmWave Radar, but 3D Radar like Nuscenes
    
+   ![image-20250319145601520](pics/image-20250319145601520.png)
+   
 7. **MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2411.15016)
    - **:school:Affiliation:** University of Science andTechnology of China (Jun Liu)
    - **:file_folder:Dataset:** VoD, TJ4DRadset
    - **:book:Note:** 
+   
+   ![image-20250319145528900](pics/image-20250319145528900.png)
    
 8. **SGDet3D: Semantics and Geometry Fusion for 3D Object Detection Using 4D Radar and Camera (24'RA-L)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10783046) [code](https://github.com/shawnnnkb/SGDet3D)
@@ -343,11 +372,15 @@
    - **:file_folder:Dataset:** VoD, TJ4DRadset
    - **:book:Note:** 
    
+   ![image-20250319145457176](pics/image-20250319145457176.png)
+   
 9. **ERC-Fusion: Fusing Enhanced 4D Radar and Camera for 3D Object Detection (24'DTPI)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10778707/)
    - **:school:Affiliation:** Beijing Institute of Technology (Lili Fan)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
+   
+   ![image-20250319145353698](pics/image-20250319145353698.png)
    
 10. **HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection (25'AAAI)**
     - **:link:Link:** [paper](https://arxiv.org/pdf/2412.11489) [code](https://github.com/garfield-cpp/HGSFusion)
@@ -412,7 +445,7 @@
    - **:file_folder:Dataset:** K-Radar, Bosch-Radar
    - **:book:Note:** 
    
-   ![image-20250312100403045](C:\Users\liuzengyun\AppData\Roaming\Typora\typora-user-images\image-20250312100403045.png)
+   ![image-20250319145208218](pics/image-20250319145208218.png)
 
 
 
