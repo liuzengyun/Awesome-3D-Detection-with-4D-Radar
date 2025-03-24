@@ -198,6 +198,14 @@
 
     ![image-20250225104437407](pics/image-20250225104437407.png)
     
+26. **MAFF-Net: Enhancing 3D Object Detection With 4D Radar Via Multi-Assist Feature Fusion (25'RA-L)**
+
+    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10923711)
+    - **:school:Affiliation:** Tongji University (Xin Bi)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
+
+    ![image-20250324172941360](pics\image-20250324172941360.png)
 
 
 
