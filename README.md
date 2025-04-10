@@ -444,7 +444,7 @@
 
     ![image-20250328193825580](pics/image-20250328193825580.png)
     
-16.  **ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving (25'CVPRW)**
+16. **ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving (25'CVPRW)**
 
     - **:link:Link:** [paper](https://arxiv.org/pdf/2504.03438)
     - **:school:Affiliation:** Fudan University (Jian Wang)
