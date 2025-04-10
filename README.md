@@ -25,7 +25,7 @@
 | View-of-Delft(VoD) |                4D Radar,LiDAR, Stereo Camera                 |     PC      |  22'RA-L   |        3D bbox        | [website](https://tudelft-iv.github.io/view-of-delft-dataset/) |                         8,693 frames                         |
 |     TJ4DRadSet     |                 4D Radar,LiDAR, Camera, GNSS                 |     PC      |  22'ITSC   |   3D bbox, TrackID    | [github](https://github.com/TJRadarLab/TJ4DRadSet)  [paper](https://ieeexplore.ieee.org/abstract/document/9922539) |                         7,757 frames                         |
 |      K-Radar       |            4D Radar,LiDAR, Stereo Camera, RTK-GPS            |     RT      | 22'NeurIPS |   3D bbox, TrackID    | [github](https://github.com/kaist-avelab/k-radar)  [paper](https://arxiv.org/pdf/2206.08171) |                   35K frames; 360° Camera                    |
-|     Dual Radar     |                 dual 4D Radars,LiDAR, Camera                 |     PC      |  23'arXiv  |   3D bbox, TrackID    | [github](https://github.com/adept-thu/Dual-Radar)  [paper](https://arxiv.org/pdf/2310.07602)           |                          10K frames                          |
+|     Dual Radar     |                 dual 4D Radars,LiDAR, Camera                 |     PC      |  25'Scientific Data  |   3D bbox, TrackID    | [github](https://github.com/adept-thu/Dual-Radar)  [paper](https://arxiv.org/pdf/2310.07602)           |                          10K frames                          |
 |      L-RadSet      |                  4D Radar,LiDAR, 3 Cameras                   |     PC      |   24'TIV   |   3D bbox, TrackID    | [github](https://github.com/crrasjtu/L-RadSet)  [paper](https://ieeexplore.ieee.org/abstract/document/10591452) |              11.2K frames; Annos range to 220m               |
 |      ZJUODset      |                    4D Radar,LiDAR, Camera                    |     PC      | 23'ICVISP  |   3D bbox, 2D bbox    | [github](https://github.com/Ruoyu-Xu/ZJUODset) [paper](https://ieeexplore.ieee.org/abstract/document/10401068) |    19,000 frames of raw data and 3,800 annotated frames.     |
 |        CMD         | 32-beam LiDAR, 128-beam LiDAR, solid-state LiDAR, 4D Radar, 3 Cameras |     PC      |  24'ECCV   |        3D bbox        | [github](https://github.com/im-djh/CMD) [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07443.pdf) | 50 high-quality sequences, each spanning 20 seconds, equating to 200 frames per sensor |
@@ -205,7 +205,7 @@
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
 
-    ![image-20250324172941360](pics\image-20250324172941360.png)
+    ![image-20250324172941360](pics/image-20250324172941360.png)
 
 
 
@@ -276,7 +276,8 @@
    
    ![image-20250312102743877](pics/20250312102745366.png)
    
-9. **V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion (24'arXiv)**
+9. **V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion (25'CVPR)**
+   
    - **:link:Link:** [paper](https://arxiv.org/pdf/2411.08402) [code](https://github.com/ylwhxht/V2X-R)
    - **:school:Affiliation:**  Xiamen University (Chenglu Wen)
    - **:file_folder:Dataset:** V2X-R
@@ -433,6 +434,24 @@
     - **:book:Note:** Radar Tensor and Camera Image
 
     ![image-20250227101227256](pics/image-20250227101227256.png)
+    
+15. **RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion (25'CVPR)**
+
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2412.12725)
+    - **:school:Affiliation:** University of Science and Technology of China (Xiaomeng Chu, Yanyong Zhang*)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** also conduct experiments with NuScenes dataset (3D Radar)
+
+    ![image-20250328193825580](pics/image-20250328193825580.png)
+    
+16.  **ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving (25'CVPRW)**
+
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2504.03438)
+    - **:school:Affiliation:** Fudan University (Jian Wang)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** 
+
+    ![image-20250410131958485](pics/image-20250410131958485.png)
 
 
 
@@ -507,3 +526,7 @@
 - [**Seung-Hyun Kong**](https://mo.kaist.ac.kr/en/professor/gong-seung-hyun/) @Korea Advanced Institute of Science and Technology (KAIST), the author of K-Radar Dataset
 
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=liuzengyun/Awesome-3D-Detection-with-4D-Radar&type=Date)](https://www.star-history.com/#liuzengyun/Awesome-3D-Detection-with-4D-Radar&Date)
