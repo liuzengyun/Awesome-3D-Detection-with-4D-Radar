@@ -201,11 +201,20 @@
 26. **MAFF-Net: Enhancing 3D Object Detection With 4D Radar Via Multi-Assist Feature Fusion (25'RA-L)**
 
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10923711)
-    - **:school:Affiliation:** Tongji University (Xin Bi)
+    - **:school:Affiliation:** Tongji University (Xin Bi, Caien Weng)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
 
     ![image-20250324172941360](pics/image-20250324172941360.png)
+    
+27. **AS-Det: Active Sampling for Adaptive 3D Object Detection in Point Clouds (25'AAAI)**
+
+    - **:link:Link:** [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32281/34436) [code(unfilled project)](https://github.com/eat-slim/AS-Det)
+- **:school:Affiliation:** Fudan University (Ziheng Ding)
+    - **:file_folder:Dataset:** VoD, Self-collected Dataset
+    - **:book:Note:** 
+    
+![image-20250418111943834](pics/image-20250418111943834.png)
 
 
 
@@ -452,6 +461,15 @@
     - **:book:Note:** 
 
     ![image-20250410131958485](pics/image-20250410131958485.png)
+    
+17. **Dual-sampling feature fusion for three-dimensional object detection using four-dimensional radar and camera (2025'EAAI)**
+
+    - **:link:Link:** [paper](https://www.sciencedirect.com/science/article/pii/S095219762500747X)
+    - **:school:Affiliation:** Tongji University (Xin Bi, Caien Weng)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
+
+    ![image-20250413105216856](pics/image-20250413105216856.png)
 
 
 
