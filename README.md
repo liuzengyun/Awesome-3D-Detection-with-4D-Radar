@@ -214,6 +214,7 @@
     - **:file_folder:Dataset:** VoD, Self-collected Dataset
     - **:book:Note:** 
     
+
 ![image-20250418111943834](pics/image-20250418111943834.png)
 
 
@@ -320,6 +321,15 @@
     - **:book:Note:** 
 
     ![image-20250305232956332](pics/image-20250305232956332.png)
+    
+13. **MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection (25'arXiv)**
+
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2502.06114)
+    - **:school:Affiliation:** Technical University of Munich (Xiangyuan Peng)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** 
+
+    ![image-20250521094026787](pics/image-20250521094026787.png)
 
 
 
@@ -328,7 +338,7 @@
 ### Fusion of 4D Radar & RGB Camera
 
 1. **RCFusion: Fusing 4-D Radar and Camera With Bird’s-Eye View Features for 3-D Object Detection (23'TIM)**
-   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10138035)
+   - **:link:Link:** [paper](https://arxiv.org/pdf/2505.09422)
    - **:school:Affiliation:** Tongji University (Zhixiong Ma)
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
