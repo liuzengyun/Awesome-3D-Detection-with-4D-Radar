@@ -288,7 +288,7 @@
    
 9. **V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion (25'CVPR)**
    
-   - **:link:Link:** [paper](https://arxiv.org/pdf/2411.08402) [code](https://github.com/ylwhxht/V2X-R)
+   - **:link:Link:** [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_V2X-R_Cooperative_LiDAR-4D_Radar_Fusion_with_Denoising_Diffusion_for_3D_CVPR_2025_paper.pdf) [code](https://github.com/ylwhxht/V2X-R)
    - **:school:Affiliation:**  Xiamen University (Chenglu Wen)
    - **:file_folder:Dataset:** V2X-R
    - **:book:Note:** baseline method of V2X-R Datasets
@@ -480,6 +480,15 @@
     - **:book:Note:** 
 
     ![image-20250413105216856](pics/image-20250413105216856.png)
+    
+18. **RCDFNet: A 4-D Radar and Camera Dual-Level Fusion Network for 3D Object Detection (25'IEEE Sensors Journal)**
+
+    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/11006930) [code (unfilled project)](https://github.com/D-Hourse/RCDFNet/tree/master)
+    - **:school:Affiliation:** Sun Yat-sen University (PeifengCheng)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
+
+    ![image-20250617092041916](pics/image-20250617092041916.png)
 
 
 
