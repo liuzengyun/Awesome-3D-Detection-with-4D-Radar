@@ -210,14 +210,20 @@
 27. **AS-Det: Active Sampling for Adaptive 3D Object Detection in Point Clouds (25'AAAI)**
 
     - **:link:Link:** [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32281/34436) [code(unfilled project)](https://github.com/eat-slim/AS-Det)
-- **:school:Affiliation:** Fudan University (Ziheng Ding)
+    - **:school:Affiliation:** Fudan University (Ziheng Ding)
     - **:file_folder:Dataset:** VoD, Self-collected Dataset
     - **:book:Note:** 
     
+    ![image-20250418111943834](pics/image-20250418111943834.png)
 
-![image-20250418111943834](pics/image-20250418111943834.png)
+28. **Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds? (25'IROS)**
 
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2503.02687)
+    - **:school:Affiliation:** Robert Bosch GmbH (Miao Zhang)
+    - **:file_folder:Dataset:** K-Radar, Bosch Street
+    - **:book:Note:** 
 
+    ![image-20250305225138381](pics/image-20250305225138381.png)
 
 
 ### Fusion of 4D Radar & LiDAR
