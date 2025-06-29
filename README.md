@@ -224,6 +224,19 @@
     - **:book:Note:** 
 
     ![image-20250305225138381](pics/image-20250305225138381.png)
+    
+29. **Radar M3-Net: Multi-scale, multi-layer, multi-frame network with a large receptive field for 3D object detection (25'Expert Systems with Applications)**
+
+    - **:link:Link:** [paper](https://www.sciencedirect.com/science/article/pii/S0957417425011376)
+    - **:school:Affiliation:**  University of Science and Technology of China (Yunting Yang, Jun Liu)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
+
+    ![image-20250629164243758](pics/image-20250629164243758.png)
+
+
+
+
 
 
 ### Fusion of 4D Radar & LiDAR
