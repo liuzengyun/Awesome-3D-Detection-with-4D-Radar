@@ -508,6 +508,15 @@
     - **:book:Note:** 
 
     ![image-20250617092041916](pics/image-20250617092041916.png)
+    
+19. **CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection (25'arXiv)**
+
+    - **:link:Link:** [paper](https://arxiv.org/html/2507.04587v1) [code (unfilled project)](https://github.com/zhzhzhzhzhz/CVFusion)
+    - **:school:Affiliation:** Zhejiang University (Zhiyu Xiang)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
+
+    ![Refer to caption](pics/x2.png)
 
 
 
