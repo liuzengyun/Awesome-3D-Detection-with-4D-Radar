@@ -414,6 +414,7 @@
    ![image-20250319145528900](pics/image-20250319145528900.png)
    
 8. **SGDet3D: Semantics and Geometry Fusion for 3D Object Detection Using 4D Radar and Camera (24'RA-L)**
+   
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10783046) [code](https://github.com/shawnnnkb/SGDet3D)
    - **:school:Affiliation:** Zhejiang University (Huiliang Shen)
    - **:file_folder:Dataset:** VoD, TJ4DRadset
@@ -517,6 +518,15 @@
     - **:book:Note:** 
 
     ![Refer to caption](pics/x2.png)
+    
+20. **RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cues for 3D Object Detection (25'arXiv)**
+    
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2507.19856) 
+    - **:school:Affiliation:** Zhejiang University (Huiliang Shen)
+    - **:file_folder:Dataset:** VoD, TJ4DRadset, OmniHD-Scenes
+    - **:book:Note:** 
+    
+    ![image-20250808200807939](pics/image-20250808200807939.png)
 
 
 
@@ -589,6 +599,7 @@
 - [**Lili Fan**](https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/6711569f697a43c08be59ba673ecf2bd.htm) @Beijing Institute of Technology
 - [**Chenglu Wen**](https://asc.xmu.edu.cn/t/wenchenglu) @Xiamen university, the author of CMD Dataset and V2X-R Dataset
 - [**Seung-Hyun Kong**](https://mo.kaist.ac.kr/en/professor/gong-seung-hyun/) @Korea Advanced Institute of Science and Technology (KAIST), the author of K-Radar Dataset
+- [**Huiliang Shen**](https://ivlab.net/shenhl.html) @Zhejiang University
 
 
 
