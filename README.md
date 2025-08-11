@@ -349,6 +349,15 @@
     - **:book:Note:** 
 
     ![image-20250521094026787](pics/image-20250521094026787.png)
+    
+14. **L4drfusion: Lidar and 4d Millimeter-Wave Radar Fusion in Unified Space for 3d Object Detection (25'SSRN preprint)**
+
+    - **:link:Link:** [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5383403)
+    - **:school:Affiliation:** Qingdao University of Science and Technology (Ye Tao)
+    - **:file_folder:Dataset:** VoD, VoD-Fog
+    - **:book:Note:** 
+
+    ![image-20250811193931718](pics/image-20250811193931718.png)
 
 
 
