@@ -16,7 +16,7 @@
 - [Basic Knowledge](#Basic-Knowledge)
 - [Representative researchers](#Representative-researchers)
 
-## Datasets
+## Datasets    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
 |      Dataset       |                           Sensors                            | Radar Data  |   Source   |      Annotations      |                             Url                             |                            Other                             |
 | :----------------: | :----------------------------------------------------------: | :---------: | :--------: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -33,11 +33,12 @@
 |   OmniHD-Scenes    |              6 4D Radars, LiDAR, 6 Cameras, IMU              |     PC      |  24'arXiv  | 3D bbox, TrackID, OCC | [website](https://www.2077ai.com/OmniHD-Scenes) [paper](https://arxiv.org/pdf/2412.10734) |         totaling more than 450K synchronized frames          |
 |  MAN TruckScenes   |        6 4D Radars, 4 Cameras, 6 LiDAR, 1 GNSS, 2 IMU        |     PC      |  24'arXiv  |            3D bbox           | [paper](https://arxiv.org/pdf/2407.07462v2) | Bounding boxes are available for 27 object classes, 15 attributes, and a range of more than 230 m. |
 
-## SOTA Papers
+## SOTA Papers    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
-### From 4D Radar (Point Cloud&Radar Tensor)
+### From 4D Radar (Point Cloud&Radar Tensor)    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
 1. **RPFA-Net: a 4D RaDAR Pillar Feature Attention Network for 3D Object Detection (21'ITSC)**
+   
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9564754) [code](https://github.com/Nerdmust/astyx-pcdet-radar)
    - **:school:Affiliation:** Tsinghua University (Xinyu Zhang)
    - **:file_folder:Dataset:** Astyx
@@ -239,7 +240,7 @@
 
 
 
-### Fusion of 4D Radar & LiDAR
+### Fusion of 4D Radar & LiDAR    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
 1. **InterFusion: Interaction-based 4D Radar and LiDAR Fusion for 3D Object Detection (22'IROS)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9982123)
@@ -363,7 +364,7 @@
 
 
 
-### Fusion of 4D Radar & RGB Camera
+### Fusion of 4D Radar & RGB Camera    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
 1. **RCFusion: Fusing 4-D Radar and Camera With Bird’s-Eye View Features for 3-D Object Detection (23'TIM)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2505.09422)
@@ -540,7 +541,7 @@
 
 
 
-### Others
+### Others    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
 1. **LiDAR-based All-weather 3D Object Detection via Prompting and Distilling 4D Radar (24'ECCV)**
    - **:link:Link:** [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07349.pdf) [code (unfilled project)](https://github.com/yujeong-star/LOD_PDR)
@@ -561,7 +562,7 @@
 
 
 
-## Survey Papers
+## Survey Papers    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
 1. **4D Millimeter-Wave Radar in Autonomous Driving: A Survey (23'arXiv)**
    -  **:link:Link:** [paper](https://arxiv.org/pdf/2306.04242)
@@ -580,23 +581,23 @@
 
 
 
-## Basic Knowledge
+## Basic Knowledge    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
-### What is 3D Object Detection with 4D Radar?
+### What is 3D Object Detection with 4D Radar?    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
 3D object detection is able to obtain the position, size and orientation information of objects in 3D space, and is widely used in automatic driving perception, robot manipulation, and other applications. In 3D object detection, sensors such as LiDAR, RGB camera and depth camera are commonly used. In recent years, several works have been proposed to utilize 4D radar as a primary or secondary sensor to achieve 3D object detection. 4D radar, also known as 4D millimeter wave (mmWave) radar or 4D imaging radar. Compared to 3D radar, 4D radar not only obtains the distance, direction and relative velocity (Doppler velocity) of the target object, but also detects the height of the object. Due to its robustness against different weather conditions and lower cost, 4D radar is expected to replace low beam LiDAR in the future. This repo summarizes the 4D radar based 3D object detection methods and datasets. 
 
-### Different 4D Radar Data Representations
+### Different 4D Radar Data Representations    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
 - **PC:** **P**oint **C**loud
 - **ADC:** **A**nalog-to-**D**igital **C**onverter signal
 - **RT:** **R**adar **T**ensor (include **R**ange-**A**zimuth-**D**oppler Tensor, **R**ange-**A**zimuth Tensor, **R**ange-Doppler Tensor)
 
-### Other Materials
+### Other Materials    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
 
 
-## Representative researchers
+## Representative researchers    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
 - [**Li Wang**](https://scholar.google.com/citations?hl=zh-CN&user=kLTnwAsAAAAJ&view_op=list_works&sortby=pubdate) (Postdoctoral Fellow) and his co-leader **Xinyu Zhang** @Tsinghua University, authors of Dual Radar
 - [**Bing Zhu**](https://shi.buaa.edu.cn/zhubing/zh_CN/index.htm) @Beihang University
@@ -612,6 +613,6 @@
 
 
 
-## Star History
+## Star History    [⬆️TOP](#Awesome-3D-Detection-with-4D-Radar)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=liuzengyun/Awesome-3D-Detection-with-4D-Radar&type=Date)](https://www.star-history.com/#liuzengyun/Awesome-3D-Detection-with-4D-Radar&Date)
