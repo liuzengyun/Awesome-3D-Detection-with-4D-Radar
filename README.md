@@ -234,6 +234,15 @@
     - **:book:Note:** 
 
     ![image-20250629164243758](pics/image-20250629164243758.png)
+    
+30. **4DRadDet: Cluster-Queried Enhanced 3D Object Detection with 4D Radar (25'ICRA)**
+
+    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/11127889/)
+    - **:school:Affiliation:**  Tongji University (Caien Weng)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** 
+
+    ![image-20250912165802590](pics/image-20250912165802590.png)
 
 
 
