@@ -243,6 +243,15 @@
     - **:book:Note:** 
 
     ![image-20250912165802590](pics/image-20250912165802590.png)
+    
+31. **RadarGaussianDet3D: An Efficient and Effective Gaussian-based 3D Detector with 4D Automotive Radars (25'arXiv)**
+
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2509.16119)
+    - **:school:Affiliation:** Beihang University (Bing Zhu)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
+
+    ![image-20250928110511687](pics/image-20250928110511687.png)
 
 
 
