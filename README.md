@@ -377,6 +377,15 @@
     - **:book:Note:** 
 
     ![image-20250811193931718](pics/image-20250811193931718.png)
+    
+15. **Beyond Pillars: Advancing 3D Object Detection with Salient Voxel Enhancement of LiDAR-4D Radar Fusion (25'SSRN preprint)**
+
+    - **:link:Link:** [paper](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5518546)
+    - **:school:Affiliation:** University of Electronic Science and Technology of China (Pengfei Yang)
+    - **:file_folder:Dataset:** VoD, Astyx
+    - **:book:Note:** 
+
+    ![image-20251017211352965](pics/image-20251017211352965.png)
 
 
 
@@ -551,10 +560,28 @@
     
     - **:link:Link:** [paper](https://arxiv.org/pdf/2507.19856) 
     - **:school:Affiliation:** Zhejiang University (Huiliang Shen)
-    - **:file_folder:Dataset:** VoD, TJ4DRadset, OmniHD-Scenes
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet, OmniHD-Scenes
     - **:book:Note:** 
     
     ![image-20250808200807939](pics/image-20250808200807939.png)
+    
+21. **RCACF: 4D Radar-Camera Adaptive and Cooperative Fusion for 3D Detection (25'SSRN preprint)**
+
+    - **:link:Link:** [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5522195)
+    - **:school:Affiliation:** Beijing University of Technology (Shihao Wang)
+    - **:file_folder:Dataset:** VoD, nuScenes
+    - **:book:Note:** 
+
+    ![image-20251017211755151](pics/image-20251017211755151.png)
+
+22. **MLF-4DRCNet: Multi-Level Fusion with 4D Radar and Camera for 3D Object Detection in Autonomous Driving (25'arXiv)**
+
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2509.18613)
+    - **:school:Affiliation:** University of Science and Technology of China (Yuzhi Wu)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
+
+    ![image-20251017212337439](pics/image-20251017212337439.png)
 
 
 
