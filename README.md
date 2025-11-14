@@ -252,6 +252,13 @@
     - **:book:Note:** 
 
     ![image-20250928110511687](pics/image-20250928110511687.png)
+    
+32. MLMF: A Manifold Learning-Based Multi-Representation Fusion Model for 3D Object Detection with 4D Radar Point Cloud (25'RadarConf)
+
+    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/11205141/)
+    - **:school:Affiliation:** Beihang University (Bing Zhu)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
 
 
 
