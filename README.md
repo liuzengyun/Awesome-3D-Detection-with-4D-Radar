@@ -611,6 +611,15 @@
     - **:book:Note:** 
 
     ![image-20251017212337439](pics/image-20251017212337439.png)
+    
+23. **SFGFusion: Surface Fitting Guided 3D Object Detection with 4D Radar and Camera Fusion (25'arXiv)**
+
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2510.19215)
+    - **:school:Affiliation:** Beijing Institute of Technology (Xiaozhi Li, Huijun Di)
+    - **:file_folder:Dataset:** TJ4DRadSet, VoD
+    - **:book:Note:** mAP3D=35.57@TJ4DRadSet, mAP3D=55.76@VoD
+
+    ![image-20251119150542678](pics/image-20251119150542678.png)
 
 
 
