@@ -620,6 +620,19 @@
     - **:book:Note:** mAP3D=35.57@TJ4DRadSet, mAP3D=55.76@VoD
 
     ![image-20251119150542678](pics/image-20251119150542678.png)
+    
+24. **M^3Detection: Multi-Frame Multi-Level Feature Fusion for Multi-Modal 3D Object Detection with Camera and 4D Imaging Radar (25'arXiv)**
+
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2510.27166)
+    - **:school:Affiliation:** Beijing Institute of Technology (Xiaozhi Li, Huijun Di)
+    - **:file_folder:Dataset:** TJ4DRadSet, VoD
+    - **:book:Note:** mAP3D=44.73@TJ4DRadSet, mAP3D=66.81@VoD
+
+    ![image-20251124094419097](pics/image-20251124094419097.png)
+
+
+
+
 
 
 
@@ -680,7 +693,7 @@
 
 - **PC:** **P**oint **C**loud
 - **ADC:** **A**nalog-to-**D**igital **C**onverter signal
-- **RT:** **R**adar **T**ensor (include **R**ange-**A**zimuth-**D**oppler Tensor, **R**ange-**A**zimuth Tensor, **R**ange-Doppler Tensor)
+- **RT:** **R**adar **T**ensor (include **R**ange-**A**zimuth-**D**oppler Tensor, **R**ange-**A**zimuth Tensor, **R**ange-**D**oppler Tensor)
 
 ### Other Materials
 
