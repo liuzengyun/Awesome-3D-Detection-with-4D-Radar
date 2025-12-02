@@ -267,6 +267,15 @@
     - **:book:Note:** mAP3D=34.68
     
     ![image-20251114100201419](pics/image-20251114100201419.png)
+    
+33. **Pillar-Based Adaptive Sparse Transformer with Cost-Optimized Positive Sample Selection for 4D Radar Object Detection (25'International Journal Of Intelligent Transportation Systems Research)**
+
+    - **:link:Link:**  [paper](https://link.springer.com/article/10.1007/s13177-025-00569-7)
+    - **:school:Affiliation:** Guilin  University of Electronic and Technology (Tongzhou Chen, Danfeng Wu*)
+    - **:file_folder:Dataset:** VoD
+    - **:book:Note:** mAP3D=50.99@VoD
+
+    ![image-20251202192704052](pics/image-20251202192704052.png)
 
 
 
