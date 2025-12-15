@@ -537,13 +537,17 @@
    - **:school:Affiliation:** KAIST (Yujeong Chae)
    - **:file_folder:Dataset:** K-Radar
    - **:book:Note:** 
-   
 2. **Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions (24'ITSC)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.06772)
    - **:school:Affiliation:** Robert Bosch GmbH (Miao Zhang)
    - **:file_folder:Dataset:** K-Radar, Bosch-Radar
    - **:book:Note:** 
    
+3. **Availability-aware Sensor Fusion via Unified Canonical Space (25'NeurIPS)**
+   - **:link:Link:** [paper](https://openreview.net/forum?id=foy0BWzOFL)
+   - **:school:Affiliation:** KAIST (Dong-Hee Paek, Seung-Hyun Kong)
+   - **:file_folder:Dataset:** K-Radar
+   - **:book:Note:** fusion of camera, LiDAR, and 4-dimensional (4D) Radar
 
 
 
