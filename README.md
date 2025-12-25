@@ -368,162 +368,144 @@
    - **:school:Affiliation:** Tongji University (Zhixiong Ma)
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
-   
 2. **GRC-Net: Fusing GAT-Based 4D Radar and Camera for 3D Object Detection (23'SAE Technical Paper)**
    - **:link:Link:** [paper](https://www.sae.org/publications/technical-papers/content/2023-01-7088/)
    - **:school:Affiliation:** Beijing Institute of Technology (Lili Fan)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
-   
 3. **LXL: LiDAR Excluded Lean 3D Object DetectionWith 4D Imaging Radar and Camera Fusion (24'TIV)**
    
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10268601)
    - **:school:Affiliation:** Beihang University (Bing Zhu)
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
-   
 4. **TL-4DRCF: A Two-Level 4-D Radar–Camera Fusion Method for Object Detection in Adverse Weather (24'IEEE Sensors Journal)**
    
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/document/10491101) 
    - **:school:Affiliation:** South China University of Technology (Kai Wu)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** Beyond the VoD, the LiDAR point cloud and images of the VoD dataset are processed with artificial fog to obtain the VoD-Fog dataset for validating our model. 
-   
 5. **UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/abs/2409.14751)
    - **:school:Affiliation:** Xi'an Jiaotong - Liverpool University
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
-
 6. **RCBEVDet: Radar-camera Fusion in Bird’s Eye View for 3D Object Detection (24'CVPR)**
    
    - **:link:Link:** [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_RCBEVDet_Radar-camera_Fusion_in_Birds_Eye_View_for_3D_Object_CVPR_2024_paper.pdf) 
    - **:school:Affiliation:** Peking University (Yongtao Wang)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** not only 4D mmWave Radar, but 3D Radar like Nuscenes
-   
 7. **MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving (24'arXiv)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2411.15016)
    - **:school:Affiliation:** University of Science andTechnology of China (Jun Liu)
    - **:file_folder:Dataset:** VoD, TJ4DRadset
    - **:book:Note:** 
-   
 8. **SGDet3D: Semantics and Geometry Fusion for 3D Object Detection Using 4D Radar and Camera (24'RA-L)**
    
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10783046) [code](https://github.com/shawnnnkb/SGDet3D)
    - **:school:Affiliation:** Zhejiang University (Huiliang Shen)
    - **:file_folder:Dataset:** VoD, TJ4DRadset
    - **:book:Note:** 
-   
 9. **ERC-Fusion: Fusing Enhanced 4D Radar and Camera for 3D Object Detection (24'DTPI)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10778707/)
    - **:school:Affiliation:** Beijing Institute of Technology (Lili Fan)
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
-   
 10. **HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection (25'AAAI)**
     - **:link:Link:** [paper](https://arxiv.org/pdf/2412.11489) [code](https://github.com/garfield-cpp/HGSFusion)
     - **:school:Affiliation:** Southeast University (Yan Huang)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-    
 11. **C4RFNet: Camera and 4D-Radar Fusion Network for Point Cloud Enhancement (24'IEEE Sensors Journal)**
     
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10824694)
     - **:school:Affiliation:** Nanjing University of Science and Technology (Weibin Zhang)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-    
 12. **Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception (25'arXiv)**
 
     - **:link:Link:** [paper](https://arxiv.org/pdf/2501.1534)
     - **:school:Affiliation:** Tongji University (Zhixiong Ma)
     - **:file_folder:Dataset:** OmniHD-Scenes, VoD, TJ4DRadSet
     - **:book:Note:** 
-    
 13. **LXLv2: Enhanced LiDAR Excluded Lean 3D Object Detection with Fusion of 4D Radar and Camera (25'RA-L)**
 
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10858389)
     - **:school:Affiliation:** Beihang University (Bing Zhu)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-    
 14. **Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection (24'IEEE ROBIO)**
 
     - **:link:Link:** [paper](https://arxiv.org/pdf/2502.15516)
     - **:school:Affiliation:** Shanghai Jiao Tong University (Yeqiang Qian)
     - **:file_folder:Dataset:** K-Radar
     - **:book:Note:** Radar Tensor and Camera Image
-    
 15. **RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion (25'CVPR)**
 
     - **:link:Link:** [paper](https://arxiv.org/pdf/2412.12725)
     - **:school:Affiliation:** University of Science and Technology of China (Xiaomeng Chu, Yanyong Zhang*)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** also conduct experiments with NuScenes dataset (3D Radar)
-    
 16. **ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving (25'CVPRW)**
 
     - **:link:Link:** [paper](https://arxiv.org/pdf/2504.03438)
     - **:school:Affiliation:** Fudan University (Jian Wang)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-    
 17. **Dual-sampling feature fusion for three-dimensional object detection using four-dimensional radar and camera (2025'EAAI)**
 
     - **:link:Link:** [paper](https://www.sciencedirect.com/science/article/pii/S095219762500747X)
     - **:school:Affiliation:** Tongji University (Xin Bi, Caien Weng)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-    
 18. **RCDFNet: A 4-D Radar and Camera Dual-Level Fusion Network for 3D Object Detection (25'IEEE Sensors Journal)**
 
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/11006930) [code (unfilled project)](https://github.com/D-Hourse/RCDFNet/tree/master)
     - **:school:Affiliation:** Sun Yat-sen University (PeifengCheng)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-    
 19. **CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection (25'arXiv)**
 
     - **:link:Link:** [paper](https://arxiv.org/html/2507.04587v1) [code (unfilled project)](https://github.com/zhzhzhzhzhz/CVFusion)
     - **:school:Affiliation:** Zhejiang University (Zhiyu Xiang)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-    
 20. **RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cues for 3D Object Detection (25'arXiv)**
     
     - **:link:Link:** [paper](https://arxiv.org/pdf/2507.19856) 
     - **:school:Affiliation:** Zhejiang University (Huiliang Shen)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet, OmniHD-Scenes
     - **:book:Note:** 
-    
 21. **RCACF: 4D Radar-Camera Adaptive and Cooperative Fusion for 3D Detection (25'SSRN preprint)**
 
     - **:link:Link:** [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5522195)
     - **:school:Affiliation:** Beijing University of Technology (Shihao Wang)
     - **:file_folder:Dataset:** VoD, nuScenes
     - **:book:Note:** 
-
 22. **MLF-4DRCNet: Multi-Level Fusion with 4D Radar and Camera for 3D Object Detection in Autonomous Driving (25'arXiv)**
 
     - **:link:Link:** [paper](https://arxiv.org/pdf/2509.18613)
     - **:school:Affiliation:** University of Science and Technology of China (Yuzhi Wu)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-    
 23. **SFGFusion: Surface Fitting Guided 3D Object Detection with 4D Radar and Camera Fusion (25'arXiv)**
 
     - **:link:Link:** [paper](https://arxiv.org/pdf/2510.19215)
     - **:school:Affiliation:** Beijing Institute of Technology (Xiaozhi Li, Huijun Di)
     - **:file_folder:Dataset:** TJ4DRadSet, VoD
     - **:book:Note:** mAP3D=35.57@TJ4DRadSet, mAP3D=55.76@VoD
-    
 24. **M^3Detection: Multi-Frame Multi-Level Feature Fusion for Multi-Modal 3D Object Detection with Camera and 4D Imaging Radar (25'arXiv)**
 
     - **:link:Link:** [paper](https://arxiv.org/pdf/2510.27166)
     - **:school:Affiliation:** Beijing Institute of Technology (Xiaozhi Li, Huijun Di)
     - **:file_folder:Dataset:** TJ4DRadSet, VoD
     - **:book:Note:** mAP3D=44.73@TJ4DRadSet, mAP3D=66.81@VoD
+25. **SRCFNET: A Query-Based Fully Sparse Network for 4D Radar-Camera 3D Object Detection (25'CCC)**
+    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/11179208)
+    - **:school:Affiliation:** University of Science and Technology of China (Yuran Li, Qiang Ling)
+    - **:file_folder:Dataset:** TJ4DRadSet
+    - **:book:Note:** mAP3D=30.48@TJ4DRadSet
 
 
 
