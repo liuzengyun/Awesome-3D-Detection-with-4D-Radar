@@ -506,6 +506,11 @@
     - **:school:Affiliation:** University of Science and Technology of China (Yuran Li, Qiang Ling)
     - **:file_folder:Dataset:** TJ4DRadSet
     - **:book:Note:** mAP3D=30.48@TJ4DRadSet
+26. **V^2-Fusion: Virtual voxel enhanced 4D radar-image feature fusion for 3D object detection (25'Expert Systems with Applications)**
+    - **:link:Link:** [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425037455)
+    - **:school:Affiliation:**  Beijing Institute of Technology (Li Wang, Xinyu Zhang)
+    - **:file_folder:Dataset:** VoD, Dual-Radar
+    - **:book:Note:** mAP3D=52.76@VoD
 
 
 
