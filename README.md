@@ -511,6 +511,16 @@
     - **:school:Affiliation:**  Beijing Institute of Technology (Li Wang, Xinyu Zhang)
     - **:file_folder:Dataset:** VoD, Dual-Radar
     - **:book:Note:** mAP3D=52.76@VoD
+27. **Wavelet-based Multi-View Fusion of 4D Radar Tensor and Camera for Robust 3D Object Detection (25'arXiv)**
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2512.22972)
+    - **:school:Affiliation:**  Hong Kong University of Science and Technology (Guangzhou) (Runwei Guan)
+    - **:file_folder:Dataset:** K-Radar
+    - **:book:Note:** 
+28. **DDCFusion: Dynamic Depth Compensation Fusion for Camera-Radar 3D Object Detection (25'IEEE Sensors Journal)**
+    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/11321082)
+    - **:school:Affiliation:**  East China University of Science and Technology (Jiahao Chen, Yu Zhu)
+    - **:file_folder:Dataset:** TJ4DRadSet, VoD
+    - **:book:Note:** mAP3D=51.08@VoD, mAP3D=34.61@TJ4DRadSet
 
 
 
