@@ -49,211 +49,184 @@
    - **:school:Affiliation:** Tsinghua University (Xinyu Zhang)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
-   
 2. **Multi-class road user detection with 3+1D radar in the View-of-Delft dataset (22'RA-L)** 
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9699098)
    - **:school:Affiliation:** 
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** baseline of VoD
-   
 3. **SMURF: Spatial multi-representation fusion for 3D object detection with 4D imaging radar (23'TIV)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10274127)
    - **:school:Affiliation:** Beihang University (Bing Zhu)
    - **:file_folder:Dataset:** VoD, TJ4DRadSet
    - **:book:Note:** 
-   
 4. **PillarDAN: Pillar-based Dual Attention Attention Network for 3D Object Detection with 4D RaDAR (23'ITSC)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10422406)
    - **:school:Affiliation:** Shanghai Jiao Tong University (Lin Yang)
    - **:file_folder:Dataset:** Astyx
    - **:book:Note:** 
-   
 5. **MVFAN: Multi-view Feature Assisted Network for 4D Radar Object Detection (23'ICONIP)**
    - **:link:Link:** [paper](https://link.springer.com/chapter/10.1007/978-981-99-8070-3_38)
    - **:school:Affiliation:** Nanyang Technological University
    - **:file_folder:Dataset:** Astyx, VoD
    - **:book:Note:** 
-   
 6. **SMIFormer: Learning Spatial Feature Representation for 3D Object Detection from 4D Imaging Radar via Multi-View Interactive Transformers (23'Sensors)**
    - **:link:Link:** [paper](https://www.mdpi.com/1424-8220/23/23/9429)
    - **:school:Affiliation:** Tongji University
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** 
-   
 7. **3-D Object Detection for Multiframe 4-D Automotive Millimeter-Wave Radar Point Cloud (23'IEEE Sensors Journal)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9944629)
    - **:school:Affiliation:** Tongji University (Zhixiong Ma)
    - **:file_folder:Dataset:** TJ4DRadSet
    - **:book:Note:** 
-   
 8. **RMSA-Net: A 4D Radar Based Multi-Scale Attention Network for 3D Object Detection (23'ISCSIC)**
    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10409602)
    - **:school:Affiliation:** Nanjing University of Aeronautics and Astronautics (Jie Hao)
    - **:file_folder:Dataset:** HR4D (self-collected and not open source)
    - **:book:Note:** 
-   
 9. **Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions (24'CVPR)**
 
    - **:link:Link:** [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chae_Towards_Robust_3D_Object_Detection_with_LiDAR_and_4D_Radar_CVPR_2024_paper.html)  [code](https://github.com/yujeong-star/RL_3DOD)
    - **:school:Affiliation:** KAIST (Yujeong Chae)
    - **:file_folder:Dataset:** K-Radar
    - **:book:Note:** This method takes LiDAR point cloud, 4D **radar tensor (not point cloud)** and image as input. 
-
 10. **CenterRadarNet: Joint 3D Object Detection and Tracking Framework using 4D FMCW Radar (24'ICIP)**
 
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10648077) 
     - **:school:Affiliation:** University of Washington (Jen-Hao Cheng)
     - **:file_folder:Dataset:** K-Radar
     - **:book:Note:** 4D radar tensor as inputs
-
 11. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
     - **:link:Link:** [paper](https://arxiv.org/pdf/2408.05020)
     - **:school:Affiliation:** Mannheim University of Applied Sciences, Germany
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-
 12. **VA-Net: 3D Object Detection with 4D Radar Based on Self-Attention (24'CVDL)**
     - **:link:Link:** [paper](https://dl.acm.org/doi/abs/10.1145/3653804.3654611)
     - **:school:Affiliation:** Hunan Normal University (Bo Yang)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-
 13. **RTNH+: Enhanced 4D Radar Object Detection Network using Two-Level Preprocessing and Vertical Encoding (24'TIV)**
     - **:link:Link:** [code](https://github.com/kaist-avelab/k-radar)  [paper](https://arxiv.org/pdf/2206.08171)
     - **:school:Affiliation:** KAIST (Seung-Hyun Kong)
     - **:file_folder:Dataset:** K-Radar
     - **:book:Note:** The enhanced baseline of K-Radar. 
-
 14. **RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud (24'ICRA)**
     - **:link:Link:** [code](https://github.com/LJacksonPan/RaTrack) 
     - **:school:Affiliation:** Royal College of Art, University College London (Chris Xiaoxuan Lu)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-
 15. **Feature Fusion and Interaction Network for 3D Object Detection based on 4D Millimeter Wave Radars (24'CCC)**
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10662866)
     - **:school:Affiliation:** University of Science and Technology of China (Qiang Ling)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-
 16. **Sparsity-Robust Feature Fusion for Vulnerable Road-User Detection with 4D Radar (24'Applied Sciences)**
     - **:link:Link:** [paper](https://www.mdpi.com/2076-3417/14/7/2781)
     - **:school:Affiliation:** Mannheim University of Applied Sciences (Oliver Wasenmüller)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-
 17. **Enhanced 3D Object Detection using 4D Radar and Vision Fusion with Segmentation Assistance (24'preprint)**
     - **:link:Link:** [paper](https://www.researchsquare.com/article/rs-5358941/v1) [code](https://github.com/Huniki/RVASANET)
     - **:school:Affiliation:** Beijing Institute of Technology (Xuemei Chen)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-
 18. **RadarPillarDet: Multi-Pillar Feature Fusion with 4D Millimeter-Wave Radar for 3D Object Detection (24'SAE Technical Paper)**
     - **:link:Link:** [paper](https://www.sae.org/publications/technical-papers/content/2024-01-7020/)
     - **:school:Affiliation:** Tongji University (Zhixiong Ma)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-
 19. **MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection (24'ICANN)**
     - **:link:Link:** [paper](https://arxiv.org/pdf/2408.00565v1)
     - **:school:Affiliation:** Technical University of Munich (Xiangyuan Peng)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-
 20. **Multi-Scale Pillars Fusion for 4D Radar Object Detection with Radar Data Enhancement (24'IEEE Sensors Journal)**
 
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10810267)
     - **:school:Affiliation:** Chinese Academy of Sciences (Zhe Zhang)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-
 21. **mBox: 3D object detection based on millimeter-wave radar (24'Measurement)**
     - **:link:Link:** [paper](https://www.sciencedirect.com/science/article/pii/S0263224124024539) 
     - **:school:Affiliation:** China University of Petroleum East China (Tingpei Huang)
     - **:file_folder:Dataset:** Astyx
     - **:book:Note:** 
-
 22. **SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection (25'AAAI)**
     - **:link:Link:** [paper](https://arxiv.org/pdf/2412.14571) [code(unfilled project)](https://github.com/Ruoyu-Xu/SCKD)
     - **:school:Affiliation:** Zhejiang University (Zhiyu Xiang)
     - **:file_folder:Dataset:** VoD, ZJUODset
     - **:book:Note:** The teacher is a Lidar-Radar bi-modality fusion network, while the student is a radaronly network. By the effective knowledge distillation of the teacher, the student can learn to extract sophisticated feature from the radar input and boost its detection performance.
-
 23. **RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar (25'arXiv)**
     - **:link:Link:** [paper](https://arxiv.org/pdf/2501.02314v1) 
     - **:school:Affiliation:** Institute of Deep Perception Technology, JITRI
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-    
 24. **DADAN: Dynamic-Augmented and Density-Aware Network for Accurate 3D Object Detection with 4D Radar (25'IEEE Sensors Journal)**
 
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10847758)
     - **:school:Affiliation:** Shenzhen University (Xingzheng Wang)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-
 25. **SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection (25'arXiv)**
 
     - **:link:Link:** [paper](https://arxiv.org/pdf/2502.00074)
     - **:school:Affiliation:** KAIST (Seung-Hyun Kong)
     - **:file_folder:Dataset:** K-Radar
     - **:book:Note:** 
-    
 26. **MAFF-Net: Enhancing 3D Object Detection With 4D Radar Via Multi-Assist Feature Fusion (25'RA-L)**
 
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10923711)
     - **:school:Affiliation:** Tongji University (Xin Bi, Caien Weng)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-    
 27. **AS-Det: Active Sampling for Adaptive 3D Object Detection in Point Clouds (25'AAAI)**
 
     - **:link:Link:** [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32281/34436) [code(unfilled project)](https://github.com/eat-slim/AS-Det)
     - **:school:Affiliation:** Fudan University (Ziheng Ding)
     - **:file_folder:Dataset:** VoD, Self-collected Dataset
     - **:book:Note:** 
-    
 28. **Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds? (25'IROS)**
 
     - **:link:Link:** [paper](https://arxiv.org/pdf/2503.02687)
     - **:school:Affiliation:** Robert Bosch GmbH (Miao Zhang)
     - **:file_folder:Dataset:** K-Radar, Bosch Street
     - **:book:Note:** 
-    
 29. **Radar M3-Net: Multi-scale, multi-layer, multi-frame network with a large receptive field for 3D object detection (25'Expert Systems with Applications)**
 
     - **:link:Link:** [paper](https://www.sciencedirect.com/science/article/pii/S0957417425011376)
     - **:school:Affiliation:**  University of Science and Technology of China (Yunting Yang, Jun Liu)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-    
 30. **4DRadDet: Cluster-Queried Enhanced 3D Object Detection with 4D Radar (25'ICRA)**
 
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/11127889/)
     - **:school:Affiliation:**  Tongji University (Caien Weng)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** 
-    
 31. **RadarGaussianDet3D: An Efficient and Effective Gaussian-based 3D Detector with 4D Automotive Radars (25'arXiv)**
 
     - **:link:Link:** [paper](https://arxiv.org/pdf/2509.16119)
     - **:school:Affiliation:** Beihang University (Bing Zhu)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
-    
 32. **MLMF: A Manifold Learning-Based Multi-Representation Fusion Model for 3D Object Detection with 4D Radar Point Cloud (25'RadarConf)**
 
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/11205141/)
     - **:school:Affiliation:**  University of Science and Technology of China (Jie Zhang, Weidong Chen*)
     - **:file_folder:Dataset:** TJ4DRadSet
     - **:book:Note:** mAP3D=34.68
-    
 33. **Pillar-Based Adaptive Sparse Transformer with Cost-Optimized Positive Sample Selection for 4D Radar Object Detection (25'International Journal Of Intelligent Transportation Systems Research)**
 
     - **:link:Link:**  [paper](https://link.springer.com/article/10.1007/s13177-025-00569-7)
     - **:school:Affiliation:** Guilin  University of Electronic and Technology (Tongzhou Chen, Danfeng Wu*)
     - **:file_folder:Dataset:** VoD
     - **:book:Note:** mAP3D=50.99@VoD
+34. **DR-Net: Dual-Representation Network with Motion-Aware Augmentation for 3D Object Detection based on 4D Radars (25'TCSVT)**
+    - **:link:Link:**  [paper](https://ieeexplore.ieee.org/abstract/document/11340704)
+    - **:school:Affiliation:** University of Science and Technology of China (Jinrong Cao, Qiang Ling*)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** mAP3D=45.24@VoD, mAP3D=35.14@TJ4DRadSet
 
 
 
