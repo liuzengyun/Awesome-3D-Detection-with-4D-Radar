@@ -227,6 +227,11 @@
     - **:school:Affiliation:** University of Science and Technology of China (Jinrong Cao, Qiang Ling*)
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** mAP3D=45.24@VoD, mAP3D=35.14@TJ4DRadSet
+35. **Radarnext: lightweight and real-time 3D object detector based on 4D mmWave imaging radar (25'EURASIP JSIP)**
+    - **:link:Link:**  [paper](https://link.springer.com/article/10.1186/s13634-025-01271-2)
+    - **:school:Affiliation:**  Institute of Deep Perception  Technology, JITRI (Liye Jia, Runwei Guan,  and Haocheng Zhao)
+    - **:file_folder:Dataset:** VoD, TJ4DRadSet
+    - **:book:Note:** 
 
 
 
@@ -494,6 +499,13 @@
     - **:school:Affiliation:**  East China University of Science and Technology (Jiahao Chen, Yu Zhu)
     - **:file_folder:Dataset:** TJ4DRadSet, VoD
     - **:book:Note:** mAP3D=51.08@VoD, mAP3D=34.61@TJ4DRadSet
+29. **HPAFusion: 4D Radar and Camera Fusion with Hybrid Points Assistance for 3D Object Detection (25'VCIP)**
+    - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/11396884)
+    - **:school:Affiliation:**  Zhejiang University (Jiehui Chen, Chunyi Song)
+    - **:file_folder:Dataset:** TJ4DRadSet, VoD
+    - **:book:Note:** mAP3D=61.73@VoD, mAP3D=41.86@TJ4DRadSet
+
+
 
 
 
@@ -575,6 +587,7 @@
 - [**Chenglu Wen**](https://asc.xmu.edu.cn/t/wenchenglu) @Xiamen university, the author of CMD Dataset and V2X-R Dataset
 - [**Seung-Hyun Kong**](https://mo.kaist.ac.kr/en/professor/gong-seung-hyun/) @Korea Advanced Institute of Science and Technology (KAIST), the author of K-Radar Dataset
 - [**Huiliang Shen**](https://ivlab.net/shenhl.html) @Zhejiang University
+- [**Qiang Ling**](http://staff.ustc.edu.cn/~qling/new_english.htm) @University of Science and Technology of China
 
 
 
