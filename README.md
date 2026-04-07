@@ -6,15 +6,21 @@
 
 ## Overview
 
-- [Datasets](#Datasets)
-- [SOTA Papers](#SOTA-Papers)
-  - [From 4D Radar  (Point Cloud&Radar Tensor)](#From-4D-Radar-(Point-Cloud&Radar-Tensor))
-  - [Fusion of 4D Radar & LiDAR](#Fusion-of-4D-Radar-&-LiDAR)
-  - [Fusion of 4D Radar & RGB Camera](#Fusion-of-4D-Radar-&-RGB-Camera)
-  - [Others](#Others)
-- [Survey Papers](#Survey-Papers)
-- [Basic Knowledge](#Basic-Knowledge)
-- [Representative researchers](#Representative-researchers)
+- [Awesome-3D-Detection-with-4D-Radar](#awesome-3d-detection-with-4d-radar)
+  - [Overview](#overview)
+  - [Datasets](#datasets)
+  - [SOTA Papers](#sota-papers)
+    - [From 4D Radar (Point Cloud\&Radar Tensor)](#from-4d-radar-point-cloudradar-tensor)
+    - [Fusion of 4D Radar \& LiDAR](#fusion-of-4d-radar--lidar)
+    - [Fusion of 4D Radar \& RGB Camera](#fusion-of-4d-radar--rgb-camera)
+    - [Others](#others)
+  - [Survey Papers](#survey-papers)
+  - [Basic Knowledge](#basic-knowledge)
+    - [What is 3D Object Detection with 4D Radar?](#what-is-3d-object-detection-with-4d-radar)
+    - [Different 4D Radar Data Representations](#different-4d-radar-data-representations)
+    - [Other Materials](#other-materials)
+  - [Representative researchers](#representative-researchers)
+  - [Star History](#star-history)
 
 ## Datasets
 
@@ -24,6 +30,7 @@
 | :----------------: | :----------------------------------------------------------: | :---------: | :--------: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |       Astyx        |                    4D Radar,LiDAR, Camera                    |     PC      |  19'EuRAD  |        3D bbox        | [github](https://github.com/under-the-radar/radar_dataset_astyx/)  [paper](https://ieeexplore.ieee.org/abstract/document/8904734) |                         ~500 frames                          |
 |       RADIal       |                    4D Radar,LiDAR, Camera                    | PC, ADC, RT |  22'CVPR   |     2D bbox, seg      | [github](https://github.com/valeoai/RADIal)  [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rebut_Raw_High-Definition_Radar_for_Multi-Task_Learning_CVPR_2022_paper.pdf) |                     8,252 labeled frames                     |
+|      RaDelft       |                    4D Radar,LiDAR, Camera                    |   PC, RT   |  24'TRS    | point-wise semantic labels | [github](https://github.com/RaDelft/RaDelft-Dataset)  [paper](https://ieeexplore.ieee.org/document/10731871) |   16k Frames |
 | View-of-Delft(VoD) |                4D Radar,LiDAR, Stereo Camera                 |     PC      |  22'RA-L   |        3D bbox        | [website](https://tudelft-iv.github.io/view-of-delft-dataset/) |                         8,693 frames                         |
 |     TJ4DRadSet     |                 4D Radar,LiDAR, Camera, GNSS                 |     PC      |  22'ITSC   |   3D bbox, TrackID    | [github](https://github.com/TJRadarLab/TJ4DRadSet)  [paper](https://ieeexplore.ieee.org/abstract/document/9922539) |                         7,757 frames                         |
 |      K-Radar       |            4D Radar,LiDAR, Stereo Camera, RTK-GPS            |     RT      | 22'NeurIPS |   3D bbox, TrackID    | [github](https://github.com/kaist-avelab/k-radar)  [paper](https://arxiv.org/pdf/2206.08171) |                   35K frames; 360° Camera                    |
