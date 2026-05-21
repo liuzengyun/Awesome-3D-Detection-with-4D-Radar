@@ -200,10 +200,10 @@
     - **:book:Note:** 
 26. **RadarPillars: Efficient Object Detection from 4D Radar Point Clouds (24'arXiv)**
 
-    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.05020)
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2408.05020) [code](https://github.com/fthbng77/RadarPillar)
     - **:school:Affiliation:** Mannheim University of Applied Sciences, Germany
     - **:file_folder:Dataset:** VoD
-    - **:book:Note:** 
+    - **:book:Note:** Unofficial open-source reproduction on VoD reproduces and exceeds the paper (mAP_3D 52.56 vs 50.70, R11); pretrained weights included.
 27. **CenterRadarNet: Joint 3D Object Detection and Tracking Framework using 4D FMCW Radar (24'ICIP)**
 
     - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10648077) 
